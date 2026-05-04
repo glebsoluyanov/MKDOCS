@@ -43,26 +43,26 @@
 |DESCRIPTION             |                        | SKILLS|
 |------------------------|:----------------------:|:-----:|
 | Introduction           | [27](HUMAN/page029.md) |       | 
-| Talking Island Village | 28                     |       | 
-| Elven Ruins (Dungeon)  | 30                     |       | 
-| Human Fighter          | 32                     | 286   |
-| ● Warrior              | 34                     | 286   |
-| ● ● Gladiator          | 35                     | 288   |
-| ● ● Warlord            | 36                     | 292   |
-| ● Human Knight         | 37                     | 294   |
-| ● ● Paladin            | 38                     | 295   |
-| ● ● Dark Avenger       | 39                     | 298   |
-| ● Rogue                | 40                     | 301   |
-| ● ● Treasure Hunter    | 41                     | 303   |
-| ● ● Hawkeye            | 42                     | 305   |
-| Human Mystic           | 44                     | 307   |
-| ● Human Wizard         | 46                     | 307   |
-| ● ● Necromancer        | 47                     | 309   |
-| ● ● Sorcerer/ess       | 48                     | 312   |
-| ● ● Warlock            | 49                     | 314   |
-| ● Cleric               | 50                     | 316   |
-| ● ● Bishop             | 51                     | 318   |
-| ● ● Prophet            | 52                     | 320   |
+| Talking Island Village | [28](HUMAN/page030.md) |       | 
+| Elven Ruins (Dungeon)  | [30](HUMAN/page032.md) |       | 
+| Human Fighter          | [32](HUMAN/page034.md) | 286   |
+| ● Warrior              | [34](HUMAN/page036.md) | 286   |
+| ● ● Gladiator          | [35](HUMAN/page037.md) | 288   |
+| ● ● Warlord            | [36](HUMAN/page038.md) | 292   |
+| ● Human Knight         | [37](HUMAN/page039.md) | 294   |
+| ● ● Paladin            | [38](HUMAN/page040.md) | 295   |
+| ● ● Dark Avenger       | [39](HUMAN/page041.md) | 298   |
+| ● Rogue                | [40](HUMAN/page042.md) | 301   |
+| ● ● Treasure Hunter    | [41](HUMAN/page043.md) | 303   |
+| ● ● Hawkeye            | [42](HUMAN/page044.md) | 305   |
+| Human Mystic           | [44](HUMAN/page046.md) | 307   |
+| ● Human Wizard         | [46](HUMAN/page048.md) | 307   |
+| ● ● Necromancer        | [47](HUMAN/page049.md) | 309   |
+| ● ● Sorcerer/ess       | [48](HUMAN/page050.md) | 312   |
+| ● ● Warlock            | [49](HUMAN/page051.md) | 314   |
+| ● Cleric               | [50](HUMAN/page052.md) | 316   |
+| ● ● Bishop             | [51](HUMAN/page053.md) | 318   |
+| ● ● Prophet            | [52](HUMAN/page054.md) | 320   |
 
 </div>
 

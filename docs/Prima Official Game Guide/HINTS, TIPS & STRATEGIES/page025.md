@@ -1,5 +1,6 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# 23 CLANS: Why Have Them?
+# 23 CLANS
+## CLANS: Why Have Them?
 
 - **Communication.** Use the @ symbol before your message (or just use the Clan tab on chat) to effectively keep in contact with friends, huntmates, fellow PKers or team members. This is not only helpful in clan wars and sieges, but makes for a great coordinator for hunts, or just a simple chat channel.
 - **Crafting.** With recipes that need upwards of 300 Iron or rare and hard to find materials, no single Dwarf wants to craft alone. Having a clan on the lookout for basic materials (Iron, Coal and so forth) or more specific ones (e.g., Bone Gaiter Pieces, Excellence Leather Gloves Lining) makes crafting not only possible but profitable.

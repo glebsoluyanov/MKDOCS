@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
 # 18 BUYING, SELLING & CRAFTING
+## 18 BUYING, SELLING & CRAFTING
 
 - Dwarves are the only race with a crafting development path, and higher-level Dwarves (Artisans and WarSmiths) can craft unique items that are never dropped by enemies.
 

@@ -1,5 +1,5 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# 25 BASE STATS
+# 25 BASE STATS, CHARACTER STATS
 
 ### P.ATK
 P.Atk is an abbreviation for Physical Attack and determines how much damage you will inflict on a player or monster with a P.Def of 64.

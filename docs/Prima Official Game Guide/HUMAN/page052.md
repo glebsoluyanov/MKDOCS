@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# CLERIC (←HUMAN MYSTIC)
+# 50 CLERIC
+## CLERIC (←HUMAN MYSTIC)
 
 Though weak when soloing, the Cleric is perhaps the most sought after party member; you will be hard-pressed to find a group that would not want the help of at least one healer/buffer.
 
@@ -15,23 +16,30 @@ Though weak when soloing, the Cleric is perhaps the most sought after party memb
 
 ---
 
-### HP / MP BY LEVEL
+- Don't heal secondary tanks unless they're in trouble. Their tank time is a time for you to regenerate more MP to heal the primary, and time for your primary to regenerate more HP.
 
-| LEVEL | HP  | MP   |
-|-------|-----|------|
-| 21    | 439 | 303  |
-| 22    | 473 | 323  |
-| 23    | 508 | 343  |
-| 24    | 543 | 363  |
-| 25    | 579 | 383  |
-| 26    | 614 | 404  |
-| 27    | 650 | 424  |
-| 28    | 686 | 445  |
-| 29    | 723 | 466  |
-| 30    | 760 | 487  |
+- Always buff yourself first. Even if you don't need buffs, as soon as your buffs start to wear out you know your party's buffs are about to wear out.
+
+- If you have full MP, don't be afraid to go up to the front lines and start whacking away at the monsters as well. You don't do much damage, but you can do some. Remember, as a healer you have no need for the M.Atk boost of staffs or books, so you ought to be wielding a Fighter weapon of some sort.
+
+- Make sure to get heals before you get anything else.
+
+- Your main job is to keep people alive, not hit or be hit. Also, make sure to get your individual heals before group heals — you will use them much more.
+
+### HP / MP BY LEVEL
 
 | LEVEL | HP   | MP   |
 |-------|------|------|
+| 21    | 439  | 303  |
+| 22    | 473  | 323  |
+| 23    | 508  | 343  |
+| 24    | 543  | 363  |
+| 25    | 579  | 383  |
+| 26    | 614  | 404  |
+| 27    | 650  | 424  |
+| 28    | 686  | 445  |
+| 29    | 723  | 466  |
+| 30    | 760  | 487  |
 | 31    | 797  | 508  |
 | 32    | 835  | 530  |
 | 33    | 872  | 551  |
@@ -42,15 +50,3 @@ Though weak when soloing, the Cleric is perhaps the most sought after party memb
 | 38    | 1066 | 662  |
 | 39    | 1106 | 685  |
 | 40    | 1146 | 708  |
-
----
-
-- Don’t heal secondary tanks unless they’re in trouble. Their tank time is a time for you to regenerate more MP to heal the primary, and time for your primary to regenerate more HP.
-
-- Always buff yourself first. Even if you don’t need buffs, as soon as your buffs start to wear out you know your party’s buffs are about to wear out.
-
-- If you have full MP, don’t be afraid to go up to the front lines and start whacking away at the monsters as well. You don’t do much damage, but you can do some. Remember, as a healer you have no need for the M.Atk boost of staffs or books, so you ought to be wielding a Fighter weapon of some sort.
-
-- Make sure to get heals before you get anything else.
-
-- Your main job is to keep people alive, not hit or be hit. Also, make sure to get your individual heals before group heals — you will use them much more.

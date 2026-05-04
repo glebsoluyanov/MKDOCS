@@ -1,5 +1,5 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# 15 HUNT MODIFIERS
+# 15 PARTY vs. PARTY
 
 er levels. If you strike out on the PvP path too early, you can destroy your character's karma (and become a prime target for others who won't be penalized for killing you).
 
@@ -22,12 +22,12 @@ Follow three general rules when fighting with a group against another group in P
 
 This guide lists the base EXP and SP you earn for each kill, but what you actually earn can be modified by a couple of factors.
 
-## Hunting Deep Blue MOB's
+### Hunting Deep Blue MOB's
 
 *   **EXP and SP.** When you kill a creature that has a lower level than yours, your rewards go down. For each level you are above the creature, you lose 9% of the total reward. Both EXP and SP round down, so that if you kill a creature even one level below yours, you're giving up at least one SP. (That makes a much greater difference at lower levels than it does at higher levels.)
 *   **Drops.** When you kill a deep blue creature, the chance for each drop is reduced to a third of the normal chance. This applies to both normal drops and Spoil drops.
 
-## Party Modifiers
+### Party Modifiers
 
 *   When you group together to hunt as a party, you earn less per kill (because you're sharing the EXP and SP with your group) but there is a group bonus that increases the total EXP and SP awarded.
 *   When two characters group together to hunt, there is a 7% bonus. For each additional member there is an additional 7% bonus.

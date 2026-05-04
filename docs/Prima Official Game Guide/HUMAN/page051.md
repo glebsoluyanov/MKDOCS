@@ -1,5 +1,6 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# WARLOCK (< Human Wizard < Human Mystic)
+# 49 WARLOCK
+## WARLOCK (←Human Wizard ← Human Mystic)
 
 Warlocks are summon-focused, and for someone who has taken a long trip through Human Wizard, they are a true blessing! From here on out you don't have those horrible 6-hour delays between summons, and new buffs make your pet more powerful then ever. You are a caster who brings your own tank to the party!
 
@@ -11,11 +12,13 @@ Warlocks are summon-focused, and for someone who has taken a long trip through H
 
 - If you own both robes and light armor, consider switching into the armor whenever you are using Kat the Cat. He can augment your mana well enough that it's worth the extra 5% P.Atk speed and P.Def you get from light armor.
 
-## You don't really get that many attack skills from here on out, so when you feel that your Blaze just isn't more than a brush on the shoulder, think about making the switch from Mystic weapon to Fighter weapon. Your primary focus will likely be playing healer and buffer for your pet, and most healers and buffers out there already use a good Fighter weapon, as M.Atk has no effect on heals or buffs.
+---
 
-## Be aware that, as your attack skills get more and more outdated, it might become harder for you to find a good group. While you're an effective healer/tank team that takes half the mana, you can't heal the other party members, can't resurrect, and can't battle heal if the going gets tough. Be prepared to duo with your pet very often.
+- You don't really get that many attack skills from here on out, so when you feel that your Blaze just isn't more than a brush on the shoulder, think about making the switch from Mystic weapon to Fighter weapon. Your primary focus will likely be playing healer and buffer for your pet, and most healers and buffers out there already use a good Fighter weapon, as M.Atk has no effect on heals or buffs.
 
-## More and more servitor buffs become available as you progress through the levels. As always, make sure to keep your pet fully buffed; give yourself a shot of Might 1 or Shield 1 right before you buff your buddy so that you know their buffs are about to wear out when yours starts wearing out.
+- Be aware that, as your attack skills get more and more outdated, it might become harder for you to find a good group. While you're an effective healer/tank team that takes half the mana, you can't heal the other party members, can't resurrect, and can't battle heal if the going gets tough. Be prepared to duo with your pet very often.
+
+- More and more servitor buffs become available as you progress through the levels. As always, make sure to keep your pet fully buffed; give yourself a shot of Might 1 or Shield 1 right before you buff your buddy so that you know their buffs are about to wear out when yours starts wearing out.
 
 ### HP / MP BY LEVEL
 
@@ -41,9 +44,6 @@ Warlocks are summon-focused, and for someone who has taken a long trip through H
 | 58    | 1925  | 1446 |
 | 59    | 1980  | 1490 |
 | 60    | 2036  | 1534 |
-
-| LEVEL | HP    | MP   |
-|-------|-------|------|
 | 61    | 2091  | 1578 |
 | 62    | 2148  | 1623 |
 | 63    | 2204  | 1668 |

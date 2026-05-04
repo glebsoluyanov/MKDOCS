@@ -1,5 +1,5 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# 24 BASE STATS
+# 24 BASE STATS, CHARACTER STATS
 ## BASE STATS
 
 Base stats determine your character’s strengths and weaknesses. Your base stats are chosen when you choose your race and class at character creation. As of Chronicle 1, the only way to change any of them is by equipping certain armor sets (pieces of armor that have a special bonus when worn together). A list of armor sets and their effects can be found on p. 128.

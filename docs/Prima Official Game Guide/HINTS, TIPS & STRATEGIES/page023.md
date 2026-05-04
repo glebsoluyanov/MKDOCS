@@ -1,6 +1,5 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# 21 HINTS, TIPS & STRATEGIES
-
+# 21 EQUIPMENT CRADES & EXPERTISE
 ## EQUIPMENT GRADES & EXPERTISE
 
 - Be aware that weapons, armor and consumable projectiles like arrows and soulshot are graded to ensure proper use (and prevent over-twinking of young characters). Until you hit Level 20, you’re limited to non-graded items.

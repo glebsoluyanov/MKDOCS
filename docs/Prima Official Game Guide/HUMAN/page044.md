@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# Hawkeye (Rogue - Human Fighter)
+# 42 Hawkeye
+## Hawkeye (←Rogue ← Human Fighter)
 
 Many think that the Hawkeye is handicapped by its inability to kite; it’s hard being the slowest archer in the game! But, for every bad side there is a good: the Hawkeye’s lost speed is put into power, making it the best siege archer.
 
@@ -9,14 +10,9 @@ Many think that the Hawkeye is handicapped by its inability to kite; it’s hard
 - Hawk Eye, the signature move of Hawkeyes, is not as good as one might expect. The skill is entirely useless when soloing — that extra 10% P.Def keeps you alive — but as long as you’re sure that you won’t get hit, it can be useful in a group.
 - If you find yourself out of arrows with a monster chasing you, remember that special attacks do not use up arrows. While it burns a lot of MP, you will likely need a town run soon anyway, so Double Shot the bugger to death!
 - Stun Shot is especially useful when a PKer realizes you are too strong and begins to run away. This attack stops your target dead in her tracks (if it works) and gives you time to knock her off. The downside? It uses a lot of MP and does little damage.
-
-### Skill Analysis
-
-Burst Shot does much less damage then Double Shot, or even Stun Shot, but it does shower damage, hitting several monsters at once. This is a good skill to use if a tank draws too many monsters at once — just make sure the monsters don’t turn on you!
-
-A big debate among archers is whether you should have a secondary weapon. While a dagger can come in useful when attacked by a player or fighting a monster in close quarters, it is a big drain on the pocket-book to support two weapon upgrades.
-
-The combined high attack power of the bow and the attack power of a Human makes the Human Hawkeye a good PK character. While some might argue that the Treasure Hunter is better suited to high-damage hits and quick kills, the Hawkeye has the advantage of being farther away from the target, having attacks that always hit, and doing more damage with a single regular attack.
+- Burst Shot does much less damage then Double Shot, or even Stun Shot, but it does shower damage, hitting several monsters at once. This is a good skill to use if a tank draws too many monsters at once — just make sure the monsters don’t turn on you!
+- A big debate among archers is whether you should have a secondary weapon. While a dagger can come in useful when attacked by a player or fighting a monster in close quarters, it is a big drain on the pocket-book to support two weapon upgrades.
+- The combined high attack power of the bow and the attack power of a Human makes the Human Hawkeye a good PK character. While some might argue that the Treasure Hunter is better suited to high-damage hits and quick kills, the Hawkeye has the advantage of being farther away from the target, having attacks that always hit, and doing more damage with a single regular attack.
 
 ### HP / MP by Level
 

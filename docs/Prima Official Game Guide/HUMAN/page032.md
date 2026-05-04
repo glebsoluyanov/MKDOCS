@@ -1,5 +1,5 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# 30 ELVEN RUINS
+# 30 ELVEN RUINS (DUNGEON)
 ## ELVEN RUINS
 
 ![1.jpg](../../assets/images/32/1.jpg)

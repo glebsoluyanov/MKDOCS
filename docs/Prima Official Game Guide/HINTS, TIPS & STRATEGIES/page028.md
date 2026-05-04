@@ -1,5 +1,5 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# 26 BASE STATS
+# 26 CREATURE COMBAT STATS
 
 ### Casting Speed
 

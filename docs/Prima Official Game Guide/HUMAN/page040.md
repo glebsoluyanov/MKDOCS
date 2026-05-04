@@ -19,8 +19,6 @@ Even though the Dark Avenger is thought to be more of a tank then the Paladin, e
 
 ## HP / MP BY LEVEL
 
-<div class="compact-table" style="float: left;" markdown>
-
 | LEVEL | HP   | MP   |
 |-------|------|------|
 | 41    | 1610 | 484  |
@@ -43,13 +41,6 @@ Even though the Dark Avenger is thought to be more of a tank then the Paladin, e
 | 58    | 2954 | 938  |
 | 59    | 3038 | 966  |
 | 60    | 3123 | 995  |
-
-</div>
-
-<div class="compact-table" style="float: left; margin-left: 20px" markdown>
-
-| LEVEL | HP   | MP   |
-|-------|------|------|
 | 61    | 3208 | 1024 |
 | 62    | 3294 | 1053 |
 | 63    | 3380 | 1082 |
@@ -70,5 +61,3 @@ Even though the Dark Avenger is thought to be more of a tank then the Paladin, e
 | 78    | 4745 | 1543 |
 | 79    | 4841 | 1575 |
 | 80    | 4937 | 1607 |
-
-</div>

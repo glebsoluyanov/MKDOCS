@@ -1,5 +1,5 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# 20 WEAPONS AND ARMOR AT LEVELS
+# 20 USING WEAPONS & ARMOR
 ## Weapons at Levels 1-20
 
 - Remember the difference between weapons. Daggers are faster and score critical hits more often, but also miss more often. Blunts almost always hit, but hardly ever score a critical. Swords usually hit, and critical at a good rate. Bows do a lot of damage, but are very slow to shoot.

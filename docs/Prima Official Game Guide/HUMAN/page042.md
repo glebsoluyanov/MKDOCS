@@ -32,8 +32,6 @@ The Rogue is a damage-focused class that uses big-hit attacks to finish its enem
 
 ### HP / MP BY LEVEL
 
-<div class="compact-table" style="float: left;" markdown>
-
 | LEVEL | HP   | MP  |
 |-------|------|-----|
 | 21    | 560  | 196 |
@@ -46,13 +44,6 @@ The Rogue is a damage-focused class that uses big-hit attacks to finish its enem
 | 28    | 875  | 288 |
 | 29    | 921  | 302 |
 | 30    | 968  | 316 |
-
-</div>
-
-<div class="compact-table" style="float: left; margin-left: 20px" markdown>
-
-| LEVEL | HP   | MP  |
-|-------|------|-----|
 | 31    | 1016 | 330 |
 | 32    | 1064 | 343 |
 | 33    | 1112 | 358 |
@@ -63,5 +54,3 @@ The Rogue is a damage-focused class that uses big-hit attacks to finish its enem
 | 38    | 1359 | 430 |
 | 39    | 1409 | 444 |
 | 40    | 1460 | 459 |
-
-</div>

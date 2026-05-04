@@ -1,4 +1,5 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
+# 51 BISHOP
 # BISHOP (← CLERIC ← HUMAN MYSTIC)
 
 The most powerful healer in the game, the Bishop is a must-have when venturing deep into the upper-level dungeons, and a welcome addition to lesser groups as well. While it gets no more buffs, its heals are better than either of the Elder classes, and *much* better than its Prophet counterpart. It’s the only class with Vitalize or Mass Resurrection, and one of the only two classes with Greater Resurrection 4. In short, it’s a beefed up Cleric with even more demand for its services.
@@ -15,13 +16,13 @@ The most powerful healer in the game, the Bishop is a must-have when venturing d
 
 - All of the Bishop’s attack skills affect undead only, so if you get bored of just healing, try going to Dragon Valley; a lot of the monsters there are undead.
 
-  - Might of Heaven will be your main attack against undead. It deals a large amount of damage for a small amount of MP.
+- Might of Heaven will be your main attack against undead. It deals a large amount of damage for a small amount of MP.
 
-  - Hold Undead rarely works; consider not learning this skill at all. It costs a lot of MP and has a long recharge time as well.
+- Hold Undead rarely works; consider not learning this skill at all. It costs a lot of MP and has a long recharge time as well.
 
-  - Repose, a skill that reduces undead aggression, comes in handy if your party gets too many undead monsters on them at once. Cast this in the middle of the monster clump and your party can kill them off one by one.
+- Repose, a skill that reduces undead aggression, comes in handy if your party gets too many undead monsters on them at once. Cast this in the middle of the monster clump and your party can kill them off one by one.
 
-  - Requiem’s effect range is too small to be very useful. Another downside: you need to cast it before the undead monsters become aggressive on you or your party for it to have an effect.
+- Requiem’s effect range is too small to be very useful. Another downside: you need to cast it before the undead monsters become aggressive on you or your party for it to have an effect.
 
 ## HP / MP BY LEVEL
 
@@ -47,9 +48,6 @@ The most powerful healer in the game, the Bishop is a must-have when venturing d
 | 58    | 2073  | 1446 |
 | 59    | 2128  | 1490 |
 | 60    | 2184  | 1534 |
-
-| LEVEL | HP    | MP   |
-|-------|-------|------|
 | 61    | 2240  | 1578 |
 | 62    | 2296  | 1623 |
 | 63    | 2352  | 1668 |

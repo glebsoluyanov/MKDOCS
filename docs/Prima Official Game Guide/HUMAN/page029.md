@@ -1,5 +1,5 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# 27 HUMAN
+# 27 INTRODUCTION
 ## HUMAN
 
 The Humans of *Lineage II* are similar to the humans of our modern world. They possess no extreme abilities, but are very well balanced. In *Lineage II*, Humans have the most choice in their specialized class. Humans land in the middle of the pack when it comes to natural abilities with weapons or magic.

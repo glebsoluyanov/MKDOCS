@@ -1,5 +1,6 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# Treasure Hunter (←Rogue ← Human Fighter)
+# 41 Treasure Hunter
+## Treasure Hunter (←Rogue ← Human Fighter)
 
 With the fastest attack speed in the game (due to passive skills), the Treasure Hunter is sometimes thought of as the best dagger class — slower, but with higher HP, P.Atk and P.Atk speed than other classes.
 
@@ -8,11 +9,12 @@ With the fastest attack speed in the game (due to passive skills), the Treasure 
 - The Treasure Hunter trades in Mortal Blow for two new attacks: Backstab and Deadly Blow. Deadly Blow works just like Mortal Blow, it is simply more powerful. Backstab, on the other hand, works 100% of the time from the back and never from the front or the sides. Therefore, when attacking from the front or the sides, always use Deadly Blow. When attacking from the back, always use Backstab.
 - While you only have 3 levels of Stun Shot, a lot of Treasure Hunters carry around a low-level bow, at least for the first few levels. Even with the high MP cost, stopping an enemy in its tracks is quite helpful, especially for such a slow class.
 - With a Level 6 HP regeneration spell, the Treasure Hunter has a clear advantage in PvE over the other Rogue classes.
-- Fake Death is useful, fun and very dangerous, all in one! Useful, because if you have
+- Fake Death is useful, fun and very dangerous, all in one! Useful, because if you have a large group of monsters chasing you, playing dead will cause them to go find something else to do. Fun, because who doesn’t like to fall down in the middle of town for no apparent reason? And dangerous, because when the monsters decide that you are done for and they can go bother someone else, that someone else might be your party!
+- Silent Move is a good skill to use when you are traveling through monsters that you don’t want to fight. This skill consumes 5 MP every 5 seconds to remain active, though, so when in the heat of battle, it might be wiser to use a skill like Veil, Switch or Trick, which only have a one-time MP cost and get the monster off you just the same.
 
 ---
 
-HP / MP By Level
+### HP / MP By Level
 
 | LEVEL | HP   | MP   |
 |-------|------|------|
