@@ -1,0 +1,88 @@
+site_name: Prima Guide
+site_url: https://primaguide.com
+theme:
+  name: material
+  custom_dir: overrides
+  language: ru
+  logo: assets/ineage2.jpg
+  favicon: assets/ineage2.jpg
+  palette:
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.footer
+    - content.tooltips
+    - content.footnote.tooltips
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - content.tabs.link
+    
+
+plugins:
+  - search
+  - offline
+  - typeset
+  - group:
+      plugins:
+        - optimize
+        - minify
+  
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - neoteroi.spantable
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.inlinehilite
+  - abbr
+  - attr_list
+  - def_list
+  - md_in_html
+  - tables
+  - pymdownx.snippets
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - footnotes
+  - admonition
+  - pymdownx.details
+extra:
+  consent:
+    title: Cookies
+    cookies:
+        analytics: L2Repository analytics
+    description: >- 
+      Мы используем файлы cookie для распознавания ваших повторных посещений и предпочтений, а также для оценки эффективности нашей документации и того, находят ли пользователи то, что ищут. С вашего согласия вы помогаете нам улучшать нашу документацию.
+    actions:
+      - accept
+      - reject
+extra_css:
+  - assets/css/neoteroi-mkdocs.css
+  - assets/css/extra.css
+copyright: >
+  &copy; 2026 L2Repository –
+  <a href="#__consent">Изменить настройки cookie</a>
