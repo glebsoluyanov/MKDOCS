@@ -1,4 +1,4 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # 32 HUMAN FIGHTER
 
 ## HUMAN FIGHTER (1-20)

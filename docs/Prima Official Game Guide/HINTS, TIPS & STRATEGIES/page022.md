@@ -1,4 +1,4 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # 20 WEAPONS AND ARMOR AT LEVELS
 ## Weapons at Levels 1-20
 

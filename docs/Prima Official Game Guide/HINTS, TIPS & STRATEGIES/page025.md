@@ -1,4 +1,4 @@
-![l2_top2.png](/assets/images/l2_top2.png)
+![l2_top2.png](../assets/images/l2_top2.png)
 # 23 CLANS: Why Have Them?
 
 - **Communication.** Use the @ symbol before your message (or just use the Clan tab on chat) to effectively keep in contact with friends, huntmates, fellow PKers or team members. This is not only helpful in clan wars and sieges, but makes for a great coordinator for hunts, or just a simple chat channel.

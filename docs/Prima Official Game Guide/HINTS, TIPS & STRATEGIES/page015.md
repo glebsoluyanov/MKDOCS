@@ -1,4 +1,4 @@
-![l2_top2.png](/assets/images/l2_top2.png)
+![l2_top2.png](../assets/images/l2_top2.png)
 # 13 GROUPING vs. ENVIRONMENT
 ## GROUPING vs. ENVIRONMENT
 - When forming groups, mix races and classes for maximum benefit. Consider all of the race and class advantages and disadvantages when you’re hunting with a group. The best groups have a mixture of Fighters from the strongest physical races and healers from the strongest magical races.

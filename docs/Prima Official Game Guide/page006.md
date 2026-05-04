@@ -1,4 +1,4 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # TABLE OF CONTENTS
 
 <div class="noborder-table compact-table noheader-table" markdown>

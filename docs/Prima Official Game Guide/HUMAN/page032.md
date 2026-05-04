@@ -1,8 +1,8 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # 30 ELVEN RUINS
 ## ELVEN RUINS
 
-![1.jpg](/assets/images/32/1.jpg)
+![1.jpg](../assets/images/32/1.jpg)
 
  **1**:  
   - 2 Tunath Orc Marksman (10)  

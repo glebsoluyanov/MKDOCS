@@ -1,4 +1,4 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # 12 KITING
 
 - Just because you can attack something doesn’t mean you should. Take some time to figure out your fighting efficiency. If you hit 10 times to kill creature X and get 500 XP, then you’re really only getting about 50 XP per hit. But, if you can kill another creature with three swift blows and get 270 XP for it, you’re earning 90 XP per kill.

@@ -1,4 +1,4 @@
-![l2_top2.png](/assets/images/l2_top2.png)
+![l2_top2.png](../assets/images/l2_top2.png)
 # 15 HUNT MODIFIERS
 
 er levels. If you strike out on the PvP path too early, you can destroy your character's karma (and become a prime target for others who won't be penalized for killing you).

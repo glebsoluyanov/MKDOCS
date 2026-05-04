@@ -1,4 +1,4 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # 34 WARRIOR
 ## WARRIOR (← HUMAN FIGHTER)
 

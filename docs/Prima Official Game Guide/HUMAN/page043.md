@@ -1,4 +1,4 @@
-![l2_top2.png](/assets/images/l2_top2.png)
+![l2_top2.png](../assets/images/l2_top2.png)
 # Treasure Hunter (←Rogue ← Human Fighter)
 
 With the fastest attack speed in the game (due to passive skills), the Treasure Hunter is sometimes thought of as the best dagger class — slower, but with higher HP, P.Atk and P.Atk speed than other classes.

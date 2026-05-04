@@ -1,4 +1,4 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # CREDITS
 
 *Writers*
@@ -87,6 +87,6 @@ Printed in the United States of America
 
 ---
 
-![ink](/assets/images/incanmonkey.png){ align=left width="40"}
+![ink](../assets/images/incanmonkey.png){ align=left width="40"}
 Incan Monkey God Studios  
 www.incanmonkey.com

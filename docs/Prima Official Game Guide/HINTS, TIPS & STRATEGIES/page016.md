@@ -1,4 +1,4 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # 14 PLAYER vs. PLAYER
 
 **The Healer.** Despite popular belief, it’s not necessary to have a healer … if the party knows how to work together and stay alive. As the name implies, the healer is in charge of keeping the other party members alive.

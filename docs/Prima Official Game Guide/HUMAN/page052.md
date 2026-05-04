@@ -1,4 +1,4 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # CLERIC (←HUMAN MYSTIC)
 
 Though weak when soloing, the Cleric is perhaps the most sought after party member; you will be hard-pressed to find a group that would not want the help of at least one healer/buffer.

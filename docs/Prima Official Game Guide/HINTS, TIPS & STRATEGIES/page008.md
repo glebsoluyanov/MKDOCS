@@ -1,4 +1,4 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # 6 FIRST STEPS
 
 When you first arrive in your homeland, it will take a while for you to become familiar with your surroundings and comfortable with venturing beyond where you begin.

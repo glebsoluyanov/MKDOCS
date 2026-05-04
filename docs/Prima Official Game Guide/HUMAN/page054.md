@@ -1,4 +1,4 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # PROPHET (<Cleric <Human Mystic>)
 
 The most powerful buffer in the game, the Prophet is a must-have when venturing deep into the upper-level dungeons, and a welcome addition to lesser groups as well. While it gets no more heals, its buffs are better than either of the Elder classes, and much better than its Bishop counterpart. It has more buffs than any other class — nineteen total — and while not all are entirely useful, most of them are more than helpful when charging straight into danger.

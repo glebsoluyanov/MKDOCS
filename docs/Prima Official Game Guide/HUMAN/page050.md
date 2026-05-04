@@ -1,4 +1,4 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # SORCERER/ESS ($ \Leftarrow $ HUMAN WIZARD $\Leftarrow$ HUMAN MYSTIC)
 
 There aren’t too many secrets with the Sorcerer — you’re a walking wave of destruction, with extremely powerful offensive capabilities mixed with a touch of crowd control skills and a dab of pets. You’ll like this class if you enjoy blowing things up with catastrophic results. The Sorcerer’s role is that of primary damage dealer, with some excellent crowd control spells. Fire and non-elemental attacks are your expertise, and once you have your target in sight — you’ll have to wait until the smoke clears to see the result.

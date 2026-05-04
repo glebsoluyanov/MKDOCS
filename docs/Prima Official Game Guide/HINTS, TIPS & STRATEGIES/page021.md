@@ -1,4 +1,4 @@
-![l2_top2.png](/assets/images/l2_top2.png)
+![l2_top2.png](../assets/images/l2_top2.png)
 # 19 ACQUIRING EQUIPMENT
 ## ACQUIRING EQUIPMENT
 
@@ -32,4 +32,4 @@
 
 - The very large number in your character status screen represents your maximum encumbrance, or maximum weight you can carry. You don’t really have to worry much at lower levels, but if you are carrying too much, then you may regenerate MP and HP more slowly, and you won’t be able to run as fast. If you are completely encumbered, you’re as good as dead until you drop something — you can’t move, and you won’t regain MP and HP.
 
-![1.jpg](/assets/images/21/1.jpg){ width="300" }
+![1.jpg](../assets/images/21/1.jpg){ width="300" }

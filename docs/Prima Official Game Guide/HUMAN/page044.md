@@ -1,4 +1,4 @@
-![l2_top.png](/assets/images/l2_top.png)
+![l2_top.png](../assets/images/l2_top.png)
 # Hawkeye (Rogue - Human Fighter)
 
 Many think that the Hawkeye is handicapped by its inability to kite; it’s hard being the slowest archer in the game! But, for every bad side there is a good: the Hawkeye’s lost speed is put into power, making it the best siege archer.

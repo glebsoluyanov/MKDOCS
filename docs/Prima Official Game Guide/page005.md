@@ -1,4 +1,4 @@
-![l2_top2.png](/assets/images/l2_top2.png)
+![l2_top2.png](../assets/images/l2_top2.png)
 # How to Use This Book
 
 This is a big book, for a big game. There’s lots of useful information here, but that means you might have to do a little digging to find what you want. Let’s see if we can help you get around.
