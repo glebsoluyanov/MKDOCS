@@ -1,4 +1,4 @@
-![l2_top.png](../assets/images/l2_top.png)
+![l2_top.png](../../assets/images/l2_top.png)
 # HUMAN WIZARD (<—HUMAN MYSTIC)
 
 Do not misjudge a Human Wizard as a pushover, no matter how cute their summons are. With devastating fire-element spells and powerful summons, the Human Wizard provides quick carnage wherever it goes.

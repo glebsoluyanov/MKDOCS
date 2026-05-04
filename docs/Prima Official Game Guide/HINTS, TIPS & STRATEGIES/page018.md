@@ -1,4 +1,4 @@
-![l2_top.png](../assets/images/l2_top.png)
+![l2_top.png](../../assets/images/l2_top.png)
 # 16 Skills
 ## Skills
 
@@ -14,5 +14,5 @@
 - If you have a skill that supports overhit, you’ll get more XP when you use it as the killing blow. Overhit occurs when you strike for more damage than a creature’s remaining hit points. The excess damage will give you additional experience. So, if you can, use your power attack both first and last!
 
 - Blunts are powerful and consistently apply high damage, but fewer critical hits. They also get the benefit of stuns at higher levels. Two-handed swords are slower, but are better at penetrating shield defenses. Polearms have nearly double the critical hit chance and can hit multiple opponents, but are less accurate.
-![1.jpg](../assets/images/18/1.jpg){ align=right width="150" }
+![1.jpg](../../assets/images/18/1.jpg){ align=right width="150" }
 - Knight types got a big boost against archers in Chronicle 1. Not only is the Deflect Arrow skill boosted, but shields now block arrows much more often. A character with no shield masteries succeeds in shield defense about 50% of the time. A character with Shield Mastery 2, such as a Level 28+ Paladin, succeeds in shield defense against an archer about 75% of the time. A character with Shield Mastery 4, available at Level 52 for some Fighters, succeeds in shield defense 99% of the time! The catch is that you must be facing the archer who is firing at you, which both adds to realism and gives the archers a bit of a break.

@@ -1,4 +1,4 @@
-![l2_top.png](../assets/images/l2_top.png)
+![l2_top.png](../../assets/images/l2_top.png)
 # 10 HUNTING BEYOND YOUR VILLAGE
 ## HUNTING BEYOND YOUR VILLAGE
 **Abandoned Camp.** By Level 20 or 25, you’ve outgrown your starter dungeon, and when this happens you want to move on to the Abandoned Camp. You will last well into your late 20s here. Monsters range from the easier Ol Mahum Patrols and Stragglers, to the more difficult Captains and Commanders (which usually require you to group with others). There is also a profitable repeatable adena quest here, which you can get from Leopold in Gludin.

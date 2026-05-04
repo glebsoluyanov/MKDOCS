@@ -1,4 +1,4 @@
-![l2_top2.png](../assets/images/l2_top2.png)
+![l2_top2.png](../../assets/images/l2_top2.png)
 # WARLOCK (< Human Wizard < Human Mystic)
 
 Warlocks are summon-focused, and for someone who has taken a long trip through Human Wizard, they are a true blessing! From here on out you don't have those horrible 6-hour delays between summons, and new buffs make your pet more powerful then ever. You are a caster who brings your own tank to the party!

@@ -1,4 +1,4 @@
-![l2_top2.png](../assets/images/l2_top2.png)
+![l2_top2.png](../../assets/images/l2_top2.png)
 # 29 Talking Island Village
 
 Talking Island is the Human Fighter and Mystic starting spot. Though the island is isolated, it is often highly populated with young Humans, especially at the start of a new server. Elves and Dark Elves sometimes travel to the island as well, for the good hunting in the Elven Ruins dungeon.
@@ -25,7 +25,7 @@ Another good spot is the north tip of the island. This is farther away from town
 
 **Things to Watch For**
 
-![1.jpg](../assets/images/31/1.jpg){ align=right width="200" }
+![1.jpg](../../assets/images/31/1.jpg){ align=right width="200" }
 **Magic Users.** Stone Golems. Here’s a quick Golem tip: most golems with names such as `<<rock type>>` golem are magic casters, while `<<attack verb>>` golems aren’t. So while a Granite Golem will cast, a Puncher or Crusher won’t.
 
 **Archers.** Orc Archers

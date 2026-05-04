@@ -1,4 +1,4 @@
-![l2_top.png](../assets/images/l2_top.png)
+![l2_top.png](../../assets/images/l2_top.png)
 # 22 PETS
 ## PETS
 - Pets can be summoned through spells, or gained by questing for a collar (wolf) or dragonflute (hatchling).

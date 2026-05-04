@@ -1,4 +1,4 @@
-![l2_top2.png](../assets/images/l2_top2.png)
+![l2_top2.png](../../assets/images/l2_top2.png)
 # 21 HINTS, TIPS & STRATEGIES
 
 ## EQUIPMENT GRADES & EXPERTISE
@@ -17,4 +17,4 @@
 - You can’t enchant non-graded weapons.
 - You can safely enchant an item three times. After that, it has a chance of blowing up.
 - Enchant Scrolls are dropped by mobs and can increase P.Def (armor), P.Atk (weapon), or M.Def (jewelry). Scrolls of Enchant Armor work on armor and jewelry, while Enchant Weapon works on weapons. But, the scroll must be the appropriate grade for the item (C, D, etc.).
-![1.jpg](../assets/images/23/1.jpg){ width="300" }
+![1.jpg](../../assets/images/23/1.jpg){ width="300" }

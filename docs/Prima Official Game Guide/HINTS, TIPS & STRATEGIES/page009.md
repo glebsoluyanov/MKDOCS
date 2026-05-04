@@ -1,4 +1,4 @@
-![l2_top2.png](../assets/images/l2_top2.png)
+![l2_top2.png](../../assets/images/l2_top2.png)
 # 7 TOP 10 TIPS FOR NEWBIES
 ## TOP 10 TIPS FOR NEWBIES
 1. Do the map quest when you first start the game. It’s easy, and it will help you find your way around.

@@ -1,4 +1,4 @@
-![l2_top2.png](../assets/images/l2_top2.png)
+![l2_top2.png](../../assets/images/l2_top2.png)
 # 11 PLAYER vs. ENVIRONMENT
 ## PLAYER vs. ENVIRONMENT
 - Get your weapon of choice first — then worry about armor!

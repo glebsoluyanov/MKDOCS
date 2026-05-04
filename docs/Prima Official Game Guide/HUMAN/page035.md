@@ -1,4 +1,4 @@
-![l2_top2.png](../assets/images/l2_top2.png)
+![l2_top2.png](../../assets/images/l2_top2.png)
 # 33 HUMAN FIGHTER
 
 - Weapon Mastery 2. This adds 1 damage to your normal physical attack with any weapon.

@@ -1,4 +1,4 @@
-![l2_top2.png](../assets/images/l2_top2.png)
+![l2_top2.png](../../assets/images/l2_top2.png)
 # BISHOP (← CLERIC ← HUMAN MYSTIC)
 
 The most powerful healer in the game, the Bishop is a must-have when venturing deep into the upper-level dungeons, and a welcome addition to lesser groups as well. While it gets no more buffs, its heals are better than either of the Elder classes, and *much* better than its Prophet counterpart. It’s the only class with Vitalize or Mass Resurrection, and one of the only two classes with Greater Resurrection 4. In short, it’s a beefed up Cleric with even more demand for its services.

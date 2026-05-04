@@ -1,10 +1,10 @@
-![l2_top.png](../assets/images/l2_top.png)
+![l2_top.png](../../assets/images/l2_top.png)
 # 28 Talking Island Village
 ## Talking Island Village
 
 ---
 
-![1.jpg](../assets/images/30/1.jpg)
+![1.jpg](../../assets/images/30/1.jpg)
 
 ### Key
 

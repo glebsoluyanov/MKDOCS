@@ -1,4 +1,4 @@
-![l2_top.png](../assets/images/l2_top.png)
+![l2_top.png](../../assets/images/l2_top.png)
 # 40 ROGUE
 ## ROGUE (← HUMAN FIGHTER)
 

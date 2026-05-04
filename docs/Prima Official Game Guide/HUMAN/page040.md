@@ -1,4 +1,4 @@
-![l2_top.png](../assets/images/l2_top.png)
+![l2_top.png](../../assets/images/l2_top.png)
 # 38 PALADIN
 ## PALADIN (< HUMAN KNIGHT < HUMAN FIGHTER)
 
@@ -14,7 +14,7 @@ Even though the Dark Avenger is thought to be more of a tank then the Paladin, e
 ---
 
 - Invest in Magic Defense items; a lot of the undead and upper-level monsters use magic, and it’s good to be prepared for that! Another thing — the higher your Magic Defense, the more effect Iron Will has. The same with Physical Defense and Majesty.
-![1.jpg](../assets/images/38/1.jpg){ align=right width=300 }
+![1.jpg](../../assets/images/38/1.jpg){ align=right width=300 }
 - Where Hate pulls one monster onto you, Hate Aura pulls all monsters around you to attack you. This is very good when a Cleric or a Rogue type finds himself being chased by leaders or a group spawn.
 
 ## HP / MP BY LEVEL

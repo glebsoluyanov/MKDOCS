@@ -1,4 +1,4 @@
-![l2_top.png](../assets/images/l2_top.png)
+![l2_top.png](../../assets/images/l2_top.png)
 # 36 WARLORD
 ## WARLORD (←WARRIOR ←HUMAN FIGHTER)
 
@@ -13,7 +13,7 @@ One of the few melee classes that can effectively herd, the Warlord is often ove
 ---
 
 - **Revival**: As the name implies, a last grab at life. The skill has a 3-hour recharge time and can only be used when you’re under 10% of your HP, but when used, it’s a 1685 HP heal. This makes it fall into the Good To Have But Not Often Used Skills category.
-![1.jpg](../assets/images/38/1.jpg){ align=right width=300 }
+![1.jpg](../../assets/images/38/1.jpg){ align=right width=300 }
 - **Detect Weakness**: No reason not to always have this skill on! Even if you don’t know what your monster is, you can take a guess and are usually right! If it’s leafy, it’s probably a plant. If it resembles an animal from the real world, it’s likely a beast. If it resembles a dragon … and so on!
 
 ---
