@@ -1,5 +1,5 @@
 site_name: Prima Guide
-site_url: https://primaguide.com
+site_url: https://glebsoluyanov.github.io/MKDOCS/
 theme:
   name: material
   custom_dir: overrides
