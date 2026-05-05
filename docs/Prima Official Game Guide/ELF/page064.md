@@ -20,9 +20,9 @@ While your previous class was a good tank, the Swordsinger falls well below Temp
 
 - Sword Symphony — costing 120 MP, this spell is sort of a “last resort” when a party member pulls too many monsters at once. It does damage to the enemies, but more importantly it inflicts fear on them, causing them to run away.
 
-![HP / MP BY LEVEL](image)
+![1.jpg](../../assets/images/64/1.jpg){ width=350}
 
-#### HP / MP BY LEVEL
+### HP / MP BY LEVEL
 
 | LEVEL | HP  | MP  |
 |-------|-----|-----|

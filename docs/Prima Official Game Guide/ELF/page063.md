@@ -18,15 +18,15 @@ Upon first glance, the Temple Knight is an average tank who stands in the shadow
 
 ---
 
-Even if there are no magical monsters in your vicinity (that you know of ...), leave Spirit Barrier on. It’s low cost, and there’s always a slim chance that you will be attacked by someone with magic.
+- Even if there are no magical monsters in your vicinity (that you know of ...), leave Spirit Barrier on. It’s low cost, and there’s always a slim chance that you will be attacked by someone with magic.
 
-Where Hate pulls one monster onto you, Hate Aura pulls all monsters around you to attack you. This is very good when a Cleric or a Rogue type finds himself being chased by leaders or a group spawn.
+- Where Hate pulls one monster onto you, Hate Aura pulls all monsters around you to attack you. This is very good when a Cleric or a Rogue type finds himself being chased by leaders or a group spawn.
 
-A character with Shield Mastery 4, such as a Level 52+ Temple Knight, succeeds in shield defense 99% of the time when facing an archer.
+- A character with Shield Mastery 4, such as a Level 52+ Temple Knight, succeeds in shield defense 99% of the time when facing an archer.
 
 ---
 
-**HP / MP BY LEVEL**
+### HP / MP BY LEVEL
 
 | LEVEL | HP   | MP   |
 |-------|------|------|
@@ -50,9 +50,6 @@ A character with Shield Mastery 4, such as a Level 52+ Temple Knight, succeeds i
 | 58    | 2655 | 952  |
 | 59    | 2730 | 981  |
 | 60    | 2806 | 1010 |
-
-| LEVEL | HP   | MP   |
-|-------|------|------|
 | 61    | 2883 | 1040 |
 | 62    | 2960 | 1069 |
 | 63    | 3038 | 1099 |

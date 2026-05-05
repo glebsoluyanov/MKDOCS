@@ -1,5 +1,6 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
 # 59 ELVEN FIGHTER
+## ELVEN FIGHTER
 
 noble knight is the one for you, then concentrate on the sword skills. A word of advice — if you are considering a Rogue, it’s a good thing to look into both bow and dagger skills. The multifaceted abilities of range and ultra-fast melee are a great combination.
 
@@ -15,7 +16,7 @@ Next, go with Weapon Mastery. A few permanent points of boost to your attack pow
 
 - **Find good targets.** Some monsters have weaknesses or strengths. Be aware; if monster X is weak to bows, and monster Y is strong to bows … hunt monster X!
 
-## HP / MP BY LEVEL
+### HP / MP BY LEVEL
 
 | LEVEL | HP   | MP  |
 |-------|------|-----|
@@ -41,5 +42,3 @@ Next, go with Weapon Mastery. A few permanent points of boost to your attack pow
 | 20    | 464  | 187 |
 
 ---
-
-59

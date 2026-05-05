@@ -17,7 +17,7 @@ The Elven Knight isn't exactly the most fun or the easiest, but consider it a me
 - Hate pulls aggressive monsters off of another target and onto you. This is very helpful when an NPC archer decides that your healer or dagger friend looks like easy meat!
 
 
-## HP / MP BY LEVEL
+### HP / MP BY LEVEL
 
 | LEVEL | HP   | MP  |
 |-------|------|-----|

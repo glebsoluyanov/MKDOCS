@@ -11,9 +11,11 @@ Near unbeatable in PvP, the Silver Ranger's speed and agility make up for any do
 - Burst Shot does much less damage then Double Shot, or even Stun Shot, but it does shower damage, hitting several monsters at once. This is a good skill to use if a tank draws too many monsters at once — just be aware that the monsters might turn on you.
 - A big debate among archers: should you have a secondary weapon or not? While a dagger can come in useful when attacked by a player or fighting a monster in close quarters, it is a big drain on the pocketbook to support two ongoing weapon upgrades.
 
+- While an archer can go into a dungeon, know that the close quarters and high count of aggressive monsters takes away your inherent hit-and-run advantage.
+- Silver Rangers are insanely fast because, not only do they have the fastest run speed and get the same speed boosts as the other archer classes, but they get Sprint 2 as well. Sprint 2 is like a self-Wind Walk 2, and so a Silver Ranger can outrun almost anyone.
 ---
 
-**HP / MP BY LEVEL**
+### HP / MP BY LEVEL
 
 | LEVEL | HP   | MP  |
 |-------|------|-----|
@@ -37,9 +39,6 @@ Near unbeatable in PvP, the Silver Ranger's speed and agility make up for any do
 | 58    | 2516 | 952 |
 | 59    | 2587 | 981 |
 | 60    | 2659 | 1010|
-
-| LEVEL | HP   | MP  |
-|-------|------|-----|
 | 61    | 2732 | 1040|
 | 62    | 2805 | 1069|
 | 63    | 2878 | 1099|
@@ -63,5 +62,3 @@ Near unbeatable in PvP, the Silver Ranger's speed and agility make up for any do
 
 ---
 
-- While an archer can go into a dungeon, know that the close quarters and high count of aggressive monsters takes away your inherent hit-and-run advantage.
-- Silver Rangers are insanely fast because, not only do they have the fastest run speed and get the same speed boosts as the other archer classes, but they get Sprint 2 as well. Sprint 2 is like a self-Wind Walk 2, and so a Silver Ranger can outrun almost anyone.
