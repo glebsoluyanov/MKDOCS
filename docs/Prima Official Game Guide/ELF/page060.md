@@ -1,16 +1,12 @@
 ![l2_top.png](../../assets/images/l2_top.png)
 # 58 ELVEN FIGHTER
+## ELVEN FIGHTER
 
 Elven Fighters and their higher-level derivatives are the fastest things on two legs. However, they are also the most fragile of the close combat classes. This, however, is not a big deal. The Elven Fighter is almost always played as an archer until around Level 20, regardless of what class is intended for the character later in the game. Because Elves can kite rather efficiently, and because of the large populations of naturally-occurring monsters near their starting area that are slow enough to kite, Elves are almost invariably sighted carrying a bow from Levels 1-19. The Elven Scout and Rogue classes are among the best at high levels due to their naturally high movement speed, and the Silver Ranger in particular is commonly regarded as the best soloing class in the game. Don't dismiss Elven Knight classes either, as they can be quite powerful in a group.
 
-## Stats
-
-- **STR**: 36
-- **WIT**: 14
-- **CON**: 36
-- **INT**: 23
-- **DEX**: 35
-- **MEN**: 26
+|**STR**|**WIT**|**CON**|**INT**|**DEX**|**MEN**|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|36     |14     |36     |23     |35     |26     |  
 
 ## PROS
 

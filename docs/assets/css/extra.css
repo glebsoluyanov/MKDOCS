@@ -28,6 +28,19 @@
   border: none !important;
 }
 
+.noborder-table-f table{
+  border: none !important;
+  tbody tr:hover {
+    background-color: transparent !important;
+    box-shadow: none !important;
+  }
+  td {
+    border-top: none !important;
+  }
+}
+
+
+
 .noheader-table thead {
   display: none !important;
 }

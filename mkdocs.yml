@@ -1,5 +1,6 @@
-site_name: Prima Guide
+site_name: L2Repository Docs
 site_url: https://glebsoluyanov.github.io/MKDOCS/
+site_author: 'L2Repository'
 theme:
   name: material
   custom_dir: overrides
@@ -8,7 +9,8 @@ theme:
   favicon: assets/ineage2.jpg
   palette:
     - scheme: default
-      primary: blue
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
