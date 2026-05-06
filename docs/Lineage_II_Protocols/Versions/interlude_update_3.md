@@ -1,5 +1,5 @@
 # 746 Interlude Update 3
-[<< back to Protocols](../index.md)
+[<< back to Protocols](../protocols.md)
 
 ---
 

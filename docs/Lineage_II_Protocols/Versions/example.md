@@ -1,5 +1,5 @@
 # 000 example
-[<< back to Protocols](../index.md)
+[<< back to Protocols](../protocols.md)
 
 ---
 
