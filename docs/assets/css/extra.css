@@ -10,6 +10,10 @@
     width: auto
 }
 
+.md-typeset h1 {
+  margin: 0 0 0.25em;
+}
+
 .compact-table table:not([class]) th {
   min-width: 3rem !important;
 }
@@ -51,8 +55,24 @@
   padding-right: 5rem !important;
 }
 
+.font-table table{
+  font-size: 11pt !important;
+}
+
 .w50 table{
   width: 50%;
+}
+
+.tw50 {
+  .md-typeset__scrollwrap{
+   .md-typeset__table{
+      display: block !important;
+      table{
+        width: 50% !important;
+        display: table;
+      }
+   }
+  }
 }
 
 .tw100 {
