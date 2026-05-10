@@ -18,13 +18,13 @@
 | [`[583]` Valiance Update 4](./Versions/valiance_update_4.md) | [`[267]` High Five](./Versions/high_five.md) | [`[560]` C3 Rise Of Darkness Update 3](./Versions/c3_rise_of_darkness_update_3.md) |
 | [`[581]` Valiance Update 3](./Versions/valiance_update_3.md) | [`[216]` Freya](./Versions/freya.md) | [`[557]` C3 Rise Of Darkness Update 2](./Versions/c3_rise_of_darkness_update_2.md)  |
 | [`[580]` Valiance Update 2](./Versions/valiance_update_2.md) | [`[152]` Gracia Epilogue Update 1](./Versions/gracia_epilogue_update_1.md) | [`[555]` C3 Rise Of Darkness Update 1](./Versions/c3_rise_of_darkness_update_1.md) |
-| [578] Valiance Update 1      | [148] Gracia Epilogue                                          | [530] C3 Rise Of Darkness           |
-| [575] Valiance               | [87] Gracia Final Update 1                                     | [485] C2 Age Of Splendor Update 1   |
-| [558] Lindvior Update 4      | [83] Gracia Final                                              | [478] C2 Age Of Splendor            |
-| [557] Lindvior Update 3      | [17] Gracia Part 2 Update 1                                    | [`[419]` C1 Harbingers Of War](./Versions/c1_harbingers_of_war.md) |
-| [533] Lindvior Update 2      | [12] Gracia Part 2                                             | [`[377]` Prelude](./Versions/prelude.md)                           |
-| [532] Lindvior Update 1      | [851] Gracia Part 1                                            | [`[336]` Prelude PTS](./Versions/prelude_pts.md)                   |
-| [531] Lindvior               | [831] Hellbound                                                |                                     |
-| [488] Glory Days Update 2    | [828] The Kamael                                               |                                     |
+| [`[578]` Valiance Update 1](./Versions/valiance_update_1.md) | [`[148]` Gracia Epilogue](./Versions/gracia_epilogue.md) | [`[530]` C3 Rise Of Darkness](./Versions/c3_rise_of_darkness.md) |
+| [`[575]` Valiance](./Versions/valiance.md)               | [`[87]` Gracia Final Update 1](./Versions/gracia_final_update_1.md) | [`[485]` C2 Age Of Splendor Update 1](./Versions/c2_age_of_splendor_update_1.md) |
+| [`[558]` Lindvior Update 4](./Versions/lindvior_update_4.md) | [`[83]` Gracia Final](./Versions/gracia_final.md) | [`[478]` C2 Age Of Splendor](./Versions/c2_age_of_splendor.md) |
+| [`[557]` Lindvior Update 3](./Versions/lindvior_update_3.md) | [`[17]` Gracia Part 2 Update 1](./Versions/gracia_part_2_update_1.md) | [`[419]` C1 Harbingers Of War](./Versions/c1_harbingers_of_war.md) |
+| [`[533]` Lindvior Update 2](./Versions/lindvior_update_2.md) | [`[12]` Gracia Part 2](./Versions/gracia_part_2.md) | [`[377]` Prelude](./Versions/prelude.md) |
+| [`[532]` Lindvior Update 1](./Versions/lindvior_update_1.md) | [`[851]` Gracia Part 1](./Versions/gracia_part_1.md) | [`[336]` Prelude PTS](./Versions/prelude_pts.md) |
+| [`[531]` Lindvior](./Versions/lindvior.md) | [`[831]` Hellbound](./Versions/hellbound.md) |                                     |
+| [`[488]` Glory Days Update 2](./Versions/glory_days_update_2.md) | [`[828]` The Kamael](./Versions/the_kamael.md) |                                     |
 
 </div>
