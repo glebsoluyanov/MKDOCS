@@ -7,9 +7,9 @@
 |  | Click to view packet opcodes |  |
 |------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------|
 | [`[110]` Grand Crusade update 1](./Versions/grand_crusade_update_1.md) | [`[480]` Glory Days Update 1](./Versions/glory_days_update_1.md) | [`[746]` Interlude Update 3](./Versions/interlude_update_3.md)     |
-| [109] Grand Crusade          | [`[479]` Glory Days]()                                         | [744] Interlude Update 2            |
-| [64] Helios                  | [449] Tauti Update 1                                           | [740] Interlude Update 1            |
-| [28] Underground             | [448] Tauti                                                    | [737] Interlude                     |
+| [`[109]` Grand Crusade](./Versions/grand_crusade.md) | [`[479]` Glory Days](./Versions/glory_days.md) | [`[744]` Interlude Update 2](./Versions/interlude_update_2.md) |
+| [`[64]` Helios](./Versions/helios.md) | [`[449]` Tauti Update 1](./Versions/tauti_update_1.md) | [`[740]` Interlude Update 1](./Versions/interlude_update_1.md) |
+| [`[28]` Underground](./Versions/underground.md) | [`[448]` Tauti](./Versions/tauti.md) | [`[737]` Interlude](./Versions/interlude.md)                     |
 | [24] Infinite Odyssey        | [410] Harmony                                                  | [709] C5 Oath Of Blood Update 2     |
 | [610] Ertheia Update 3       | [415] Goddess Of Destruction                                   | [694] C5 Oath Of Blood Update 1     |
 | [607] Ertheia Update 2       | [`[273]` High Five Update 3](./Versions/high_five_update_3.md) | [693] C5 Oath Of Blood              |
