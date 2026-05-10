@@ -14,10 +14,10 @@
 | [`[610]` Ertheia Update 3](./Versions/ertheia_update_3.md) | [`[415]` Goddess Of Destruction](./Versions/goddess_of_destruction.md) | [`[694]` C5 Oath Of Blood Update 1](./Versions/c5_oath_of_blood_update_1.md) |
 | [`[607]` Ertheia Update 2](./Versions/ertheia_update_2.md) | [`[273]` High Five Update 3](./Versions/high_five_update_3.md) | [`[693]` C5 Oath Of Blood](./Versions/c5_oath_of_blood.md) |
 | [`[606]` Ertheia Update 1](./Versions/ertheia_update_1.md) | [`[271]` High Five Update 2](./Versions/high_five_update_2.md)| [`[660]` C4 Scions Of Destiny Update 1](./Versions/c4_scions_of_destiny_update_1.md) |
-| [603] Ertheia                | [`[268]` High Five Update 1](./Versions/high_five_update_1.md) | [`[656]` C4 Scions Of Destiny](./Versions/c4_scions_of_destiny.md) |
-| [583] Valiance Update 4      | [267] High Five                                                | [560] C3 Rise Of Darkness Update 3  |
-| [581] Valiance Update 3      | [216] Freya                                                    | [557] C3 Rise Of Darkness Update 2  |
-| [580] Valiance Update 2      | [152] Gracia Epilogue Update 1                                 | [555] C3 Rise Of Darkness Update 1  |
+| [`[603]` Ertheia](./Versions/ertheia.md) | [`[268]` High Five Update 1](./Versions/high_five_update_1.md) | [`[656]` C4 Scions Of Destiny](./Versions/c4_scions_of_destiny.md) |
+| [`[583]` Valiance Update 4](./Versions/valiance_update_4.md) | [`[267]` High Five](./Versions/high_five.md) | [`[560]` C3 Rise Of Darkness Update 3](./Versions/c3_rise_of_darkness_update_3.md) |
+| [`[581]` Valiance Update 3](./Versions/valiance_update_3.md) | [`[216]` Freya](./Versions/freya.md) | [`[557]` C3 Rise Of Darkness Update 2](./Versions/c3_rise_of_darkness_update_2.md)  |
+| [`[580]` Valiance Update 2](./Versions/valiance_update_2.md) | [`[152]` Gracia Epilogue Update 1](./Versions/gracia_epilogue_update_1.md) | [`[555]` C3 Rise Of Darkness Update 1](./Versions/c3_rise_of_darkness_update_1.md) |
 | [578] Valiance Update 1      | [148] Gracia Epilogue                                          | [530] C3 Rise Of Darkness           |
 | [575] Valiance               | [87] Gracia Final Update 1                                     | [485] C2 Age Of Splendor Update 1   |
 | [558] Lindvior Update 4      | [83] Gracia Final                                              | [478] C2 Age Of Splendor            |
