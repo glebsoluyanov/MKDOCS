@@ -10,11 +10,11 @@
 | [`[109]` Grand Crusade](./Versions/grand_crusade.md) | [`[479]` Glory Days](./Versions/glory_days.md) | [`[744]` Interlude Update 2](./Versions/interlude_update_2.md) |
 | [`[64]` Helios](./Versions/helios.md) | [`[449]` Tauti Update 1](./Versions/tauti_update_1.md) | [`[740]` Interlude Update 1](./Versions/interlude_update_1.md) |
 | [`[28]` Underground](./Versions/underground.md) | [`[448]` Tauti](./Versions/tauti.md) | [`[737]` Interlude](./Versions/interlude.md)                     |
-| [24] Infinite Odyssey        | [410] Harmony                                                  | [709] C5 Oath Of Blood Update 2     |
-| [610] Ertheia Update 3       | [415] Goddess Of Destruction                                   | [694] C5 Oath Of Blood Update 1     |
-| [607] Ertheia Update 2       | [`[273]` High Five Update 3](./Versions/high_five_update_3.md) | [693] C5 Oath Of Blood              |
-| [606] Ertheia Update 1       | [271] High Five Update 2                                       | [660] C4 Scions Of Destiny Update 1 |
-| [603] Ertheia                | [268] High Five Update 1                                       | [656] C4 Scions Of Destiny          |
+| [`[24]` Infinite Odyssey](./Versions/infinite_odyssey.md) | [`[410]` Harmony](./Versions/harmony.md) | [`[709]` C5 Oath Of Blood Update 2](./Versions/c5_oath_of_blood_update_2.md) |
+| [`[610]` Ertheia Update 3](./Versions/ertheia_update_3.md) | [`[415]` Goddess Of Destruction](./Versions/goddess_of_destruction.md) | [`[694]` C5 Oath Of Blood Update 1](./Versions/c5_oath_of_blood_update_1.md) |
+| [`[607]` Ertheia Update 2](./Versions/ertheia_update_2.md) | [`[273]` High Five Update 3](./Versions/high_five_update_3.md) | [`[693]` C5 Oath Of Blood](./Versions/c5_oath_of_blood.md) |
+| [`[606]` Ertheia Update 1](./Versions/ertheia_update_1.md) | [`[271]` High Five Update 2](./Versions/high_five_update_2.md)| [`[660]` C4 Scions Of Destiny Update 1](./Versions/c4_scions_of_destiny_update_1.md) |
+| [603] Ertheia                | [`[268]` High Five Update 1](./Versions/high_five_update_1.md) | [`[656]` C4 Scions Of Destiny](./Versions/c4_scions_of_destiny.md) |
 | [583] Valiance Update 4      | [267] High Five                                                | [560] C3 Rise Of Darkness Update 3  |
 | [581] Valiance Update 3      | [216] Freya                                                    | [557] C3 Rise Of Darkness Update 2  |
 | [580] Valiance Update 2      | [152] Gracia Epilogue Update 1                                 | [555] C3 Rise Of Darkness Update 1  |
