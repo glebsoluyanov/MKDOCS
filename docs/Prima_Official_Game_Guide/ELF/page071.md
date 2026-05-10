@@ -12,7 +12,7 @@ Spellsingers are the heavy nukers of the Elf community. Although they will never
 - Aura Flare is useful due to its high speed. It is very powerful, and can be used rapidly to great effect. This is a non-elemental attack, so it is not subject to those resistances. Be sure not to drain your MP too quickly.
 - Cancel is extremely useful at high levels against boss mobs.
 - Freezing Skin is an interesting spell that reflects a certain amount of damage back to the dealer. While cast on just yourself, this spell might seem a bit puny — but cast it on your entire group and there will be some serious damage returned to any attacker.
-
+![1.jpg](../../assets/images/71/1.jpg){width=300 align=right}
 - Sleeping Cloud is a great AoE spell for a variety of situations. Get this.
 - If you find yourself facing multiple targets, use Frost Wall to quickly damage them all at once. Be careful though; if there are a lot of monsters hitting you, you should be thinking about running, not hitting them back.
 
@@ -42,9 +42,6 @@ Spellsingers are the heavy nukers of the Elf community. Although they will never
 | 58    | 1803  | 1456 |
 | 59    | 1853  | 1500 |
 | 60    | 1903  | 1544 |
-
-| Level | HP    | MP   |
-|-------|-------|------|
 | 61    | 1953  | 1589 |
 | 62    | 2004  | 1634 |
 | 63    | 2055  | 1679 |

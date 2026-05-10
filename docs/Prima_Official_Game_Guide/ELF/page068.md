@@ -2,6 +2,10 @@
 # 66 ELVEN MYSTIC
 ## ELVEN MYSTIC
 
+|**STR**|**WIT**|**CON**|**INT**|**DEX**|**MEN**|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|21     |23     |25     |37     |24     |40     |  
+
 So you’ve chosen the path of the Elven Mystic!  
 This class choice will dictate how your character develops for the rest of your career, so it’s an important decision. You’ll have a lot of future options for class development, of course — the first will come at Level 20, when you choose between the Wizard and Oracle classes, and then you may get more choices at Level 40, when Wizards select from the Spellsinger and Elemental Summoner classes. Oracles all promote to Elders at Level 40.
 
@@ -18,11 +22,3 @@ This class track is one of magic, with various skills including pets, damage spe
 - Now you’re all set to start that first quest — and you might as well kill a few more Keltirs along the way, for the experience. Once you’ve completed the quest, you’ll be directed to Guide Roios,
 
 ---
-
-**STR** | **WIT** | **CON**  
----|---|---  
-**21** | **23** | **25**  
-
-**INT** | **DEX** | **MEN**  
----|---|---  
-**37** | **24** | **40**

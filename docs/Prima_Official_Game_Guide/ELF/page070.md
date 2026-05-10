@@ -14,17 +14,19 @@ In limbo and between professions, the Elven Wizard is really intended to assist 
 
 - Get at least one level of Light Armor Mastery so that, if you do find yourself in light armor, you don’t have the horrible nerfs.
 
+![1.jpg](../../assets/images/70/1.jpg){width=350 align=right}
+
 - Early on, hunt mobs you can kill with Wind Strike, which should be pumped up to Level 5. You’ll have to sit down often, but that’s how it works. Something green or white is usually best.
 
----
-
-You’ll start powering up Sleep starting at 25, which will increase your survivability and help you fight places you otherwise wouldn’t have considered worth the risk. If you prefer to solo, stay away from the tougher mobs until then.
+- You’ll start powering up Sleep starting at 25, which will increase your survivability and help you fight places you otherwise wouldn’t have considered worth the risk. If you prefer to solo, stay away from the tougher mobs until then.
 
 - Surrender to Earth is absolutely useless; there is only one earth spell currently available to PCs (Decay) and you don’t have it!
 
+
+
 ---
 
-## HP / MP BY LEVEL
+### HP / MP BY LEVEL
 
 | LEVEL | HP   | MP   |
 |-------|------|------|
@@ -38,11 +40,6 @@ You’ll start powering up Sleep starting at 25, which will increase your surviv
 | 28    | 610  | 448  |
 | 29    | 638  | 469  |
 | 30    | 667  | 490  |
-
----
-
-| LEVEL | HP   | MP   |
-|-------|------|------|
 | 31    | 696  | 512  |
 | 32    | 725  | 533  |
 | 33    | 754  | 555  |

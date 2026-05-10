@@ -2,20 +2,21 @@
 # 72 ELVEN ELDER
 ## ELVEN ELDER (←ELVEN ORACLE ←ELVEN MYSTIC)
 
----
-
 Along with its cousin, the Shillien Elder, the Elven Elder differs from the Human Prophet and Bishop in that it gets both new buffs and new heals. It doesn’t have as many buffs as the Prophet, or as many heals as a Bishop, but the important thing is it has both!
 
 - From here on out, you get no more levels of Root, but many more levels of Sleep. Start relying more on Sleep than Root.
+
 - Bless Shield is one of your new buffs, and a good one at that. It adds 10 to the target’s shield block rate, bringing someone with no masteries to 30% or someone with Shield Mastery 4 to a whopping 50%. This spell is doubly useful when fighting archers, as shields block twice as often when facing an archer.
+
 - Might of Heaven is a more powerful version of Undead Disruption. As you already have the Holy Weapon skill, this just makes you more of an undead chopping machine. Party with Paladins or Temple Knights and go hunt undead to fully exploit your strengths.
+
 - Once you get Return, you will never have to use a Scroll of Escape again. And once you get Mass Return, you can take your party members home with you. This isn’t a high priority spell, as 500a is not that much once you get to Level 44, but remember that it also saves time — Return casts much faster then a Scroll of Escape.
+
 - Until Level 48, you get no more heals, so make sure to hunt for awhile in areas where you won’t need to rely on ever-increasing heals.
+![1.jpg](../../assets/images/74/1.jpg){width=350 align=right}
 - From this point on, instead of Heal, you get Greater Heal. This skill works the same as its lesser counterpart, but with more power and more cost. The good news is you can keep your old healing spell as well, for when you only need a little help.
 
----
-
-### **HP / MP BY LEVEL**
+### HP / MP BY LEVEL
 
 | LEVEL | HP   | MP  |
 |-------|------|-----|
@@ -39,11 +40,6 @@ Along with its cousin, the Shillien Elder, the Elven Elder differs from the Huma
 | 58    | 2066 | 1456|
 | 59    | 2123 | 1500|
 | 60    | 2180 | 1544|
-
----
-
-| LEVEL | HP   | MP  |
-|-------|------|-----|
 | 61    | 2238 | 1589|
 | 62    | 2296 | 1634|
 | 63    | 2354 | 1679|

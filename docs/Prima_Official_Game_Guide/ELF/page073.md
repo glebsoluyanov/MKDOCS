@@ -26,9 +26,7 @@ Elven Oracle is a support class which features an impressive Evasion buff called
 
 - When in a party, save your MP for healing and use your weapon to score melee hits for supporting damage. It will look like you are just watching and not contributing, but your heals help the party last significantly longer than they could without you.
 
----
-
-## **HP / MP BY LEVEL**
+### HP / MP BY LEVEL
 
 | Level | HP  | MP   |
 |-------|-----|------|
@@ -42,9 +40,6 @@ Elven Oracle is a support class which features an impressive Evasion buff called
 | 28    | 664 | 448  |
 | 29    | 700 | 469  |
 | 30    | 735 | 490  |
-
-| Level | HP   | MP   |
-|-------|------|------|
 | 31    | 771  | 512  |
 | 32    | 804  | 533  |
 | 33    | 881  | 555  |
