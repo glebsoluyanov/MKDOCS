@@ -1,6 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# 84 BLADEDANCER (← Palus Knight ← Dark Fighter)
-
+# 84 BLADEDANCER
+##  BLADEDANCER (← PALUS KNIGHT ← DARK FIGHTER)
 Even though it's not a good tank and only an average damager, immensely powerful buffs put the Bladedancer in high demand with any high-level party.
 
 - Though very powerful, your dances don't last long — only 2 minutes! Be ready to recast them.
@@ -10,16 +10,13 @@ Even though it's not a good tank and only an average damager, immensely powerful
 - Dance of Mystic increases your party’s M.Atk by 20%. This is very useful when you're grouped with attack Mystics, but has little effect on a Fighter-heavy party.
 - Dance of Concentration increases your party's casting speed by 30% and reduces chance of interruption by 40. This is very useful for both attack and heal Mystics in your party.
 - Dance of Warrior increases your party's P.Atk by 12%. This is one of the most useful dances, because who doesn’t like to hit harder? Dances stack with Might and Shield as well, so this is a wonderful buff. Use it often.
-- Dance of Fury increases your party's P.Atk Speed by 15%. Another awesome dance;
-
-it's good to have this one going all the time. 15% greater attack speed is very noticeable.
-
+- Dance of Fury increases your party's P.Atk Speed by 15%. Another awesome dance; it's good to have this one going all the time. 15% greater attack speed is very noticeable.
 - As your buffs cost the same whether cast on two or nine people, the bigger the party, the more efficient your buff.
 - Tanking a Bladedancer is even harder then tanking a Palus Knight, as you are more buff-oriented than P.Def-oriented. Make sure to find a good party with a good tank. Elven Elders are very good to party with as well, as they have an MP recharge spell.
 - Open up a fight with Hex or Power Break; they work pretty often, and when they do, they decrease the monster's P.Def by 15% (Level 2 Hex by 20%) and P.Atk by 15% (Level 2 Power Break), which makes killing much easier.
 - Poison Blade Dance — for something that costs 105 MP (and that's just the first level), one would expect a really good spell. And while the poison does good damage ... it hardly ever hits. If you even bother learning it, don't use it too often.
 
-## HP / MP BY LEVEL
+### HP / MP BY LEVEL
 
 | LEVEL | HP    | MP   |
 |-------|-------|------|
@@ -43,9 +40,6 @@ it's good to have this one going all the time. 15% greater attack speed is very 
 | 58    | 2572  | 952  |
 | 59    | 2647  | 981  |
 | 60    | 2723  | 1010 |
-
-| LEVEL | HP    | MP   |
-|-------|-------|------|
 | 61    | 2799  | 1040 |
 | 62    | 2876  | 1069 |
 | 63    | 2954  | 1099 |

@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
 # 78 DARK FIGHTER
+## 78 DARK FIGHTER
 
 ## Pros
 - High damage
@@ -10,13 +11,9 @@
 - Low defense
 - Relatively low HP
 
-### Attributes:
-- STR: 41
-- WIT: 12
-- CON: 32
-- INT: 25
-- DEX: 34
-- MEN: 26
+|**STR**|**WIT**|**CON**|**INT**|**DEX**|**MEN**|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|41     |12     |32     |25     |34     |26     |  
 
 ---
 

@@ -4,8 +4,6 @@
 
 Though slower and more easily killed then the Silver Ranger, the Phantom Ranger is second only to the Hawkeye for damage output. Often thought to be the best PK class, it’s also one of the most versatile bow users — its Sting skills give it a good reason to have a dagger at hand!
 
-## Tips & Tricks
-
 - Kiting is an archer’s best friend. Due to your speed and the fact that you just happen to use a ranged weapon, the optimal way for you to hunt (at least when you’re hunting solo) is to kite.
   
 - As it already takes MP to shoot a bow (the better the bow, the more MP it takes), a lot of archers find it a waste of MP to use the special attacks. If you find yourself at max MP, though, feel free to let off a Double Shot or Stun Shot.
@@ -20,8 +18,6 @@ Though slower and more easily killed then the Silver Ranger, the Phantom Ranger 
 
 - While an archer can go into a dungeon, know that the close quarters and high count of aggressive monsters takes away much of her natural hit and run advantage.
 
-## Additional Strategies
-
 - The combined high attack power of the bow and of a Dark Elf make the Phantom Ranger a good PK character. While some might argue that an Abyss Walker is better suited to high-damage hits and quick deaths, the Ranger has the advantage of being farther away from the target, having special attacks that always hit, and doing more damage with a single regular attack.
 
 - When you come across a monster that you know will take a while to kill, it’s a good idea to cast Poison on it before attacking, so that the poison can eat away at the monster while you do active damage.
@@ -30,7 +26,7 @@ Though slower and more easily killed then the Silver Ranger, the Phantom Ranger 
 
 - As the Phantom Ranger is still petty good with a dagger, Sting and Bleed are recommended to use during PvP or when you need to do lasting damage to a monster you know will take a while to kill.
 
-## HP / MP by Level
+### HP / MP by Level
 
 | LEVEL | HP     | MP    |
 |-------|--------|-------|
@@ -54,11 +50,6 @@ Though slower and more easily killed then the Silver Ranger, the Phantom Ranger 
 | 58    | 2374   | 952   |
 | 59    | 2442   | 981   |
 | 60    | 2509   | 1010  |
-
----
-
-| LEVEL | HP     | MP    |
-|-------|--------|-------|
 | 61    | 2578   | 1040  |
 | 62    | 2647   | 1069  |
 | 63    | 2716   | 1099  |
