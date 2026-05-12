@@ -21,7 +21,7 @@
 | Hunt Modifiers               | 15 |
 | ● Hunting Deep Blue MOBs     | 15 |
 | ● Party Modifiers            | 15 |
-| Skills                       | 16 |
+| Skills                       | [16](HINTS,_TIPS_&_STRATEGIES/page018.md) |
 | Spellcasting                 | 17 |
 | Questing                     | 17 |
 | Buying, Selling & Crafting   | 18 |
@@ -69,9 +69,9 @@
 <div class="noborder-table compact-table" markdown>
 
 #### ELF
-|DESCRIPTION               |    | SKILLS|
-|--------------------------|:--:|:-----:|
-| Introduction             | 53 |       |
+|DESCRIPTION               |                        | SKILLS|
+|--------------------------|:----------------------:|:-----:|
+| Introduction             | [53](ELF/page055.md) |       |
 | Elven Village            | 54 |       |
 | Elven Fortress (Dungeon) | 56 |       |
 | Elven Fighter            | 58 | 323   |
@@ -93,9 +93,9 @@
 <div class="noborder-table compact-table" markdown>
 
 #### DARK ELF
-|DESCRIPTION                   |    | SKILLS|
-|------------------------------|:--:|:-----:|
-| Introduction                 | 73 |       |  
+|DESCRIPTION                   |                        | SKILLS|
+|------------------------------|:----------------------:|:-----:|
+| Introduction                 | [73](DARK_ELF/page075.md) |       |  
 | Dark Elven Village           | 74 |       |  
 | School of Dark Arts (Dungeon)| 76 |       |  
 | Dark Fighter                 | 78 | 345   |
@@ -113,6 +113,3 @@
 | ● ● Shillien Elder           | 92 | 371   |
 
 </div>
----
-
-**primagames.com**
