@@ -2,8 +2,7 @@
 # 54 ELVEN VILLAGE
 ## ELVEN VILLAGE
 
-![1.jpg](../../assets/images/56/1.jpg){width=300}
-![2.jpg](../../assets/images/56/2.jpg){width=276}
+![1.jpg](../../assets/images/56/1.jpg){width=300 align=right}
 
 ✸ Melee Trainer  ◆ Mystic Trainer
 
@@ -21,6 +20,7 @@
 **F**: Rosella  
 **G**: Guide Roios  
 **H**: Nerupa  
+![2.jpg](../../assets/images/56/2.jpg){width=276 align=right}
 **I**: Pixy Murika  
  - The Worldtree’s Guards: Arkine, Daelian Sitadiel, Valeor  
 **M**: Magic  

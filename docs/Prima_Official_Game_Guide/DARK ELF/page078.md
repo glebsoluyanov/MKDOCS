@@ -1,10 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
 # 76 SCHOOL OF DARK ARTS (DUNGEON)
-#### (DARK ELVEN DUNGEON)
+## SCHOOL OF DARK ARTS (DARK ELVEN DUNGEON)
 
-![School of Dark Arts Map](image_placeholder)
+![1.jpg](../../assets/images/78/1.jpg)
 
-**Map courtesy of Duncan**
-
-*   **Page Number:** 76
-*   **Website:** primagames.com

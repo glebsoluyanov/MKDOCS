@@ -2,90 +2,71 @@
 # 74 DARK ELVEN VILLAGE
 ## DARK ELVEN VILLAGE
 
+![1.jpg](../../assets/images/76/1.jpg){width=450 align=right}
+
+✸ Melee Trainer  ◆ Mystic Trainer
+
 ### KEY
 
-- **A**
-  - Master Harant
-  - Master Trudy
-  - Magister Vlasty
-  - Magister Harne
-  - Tetrarch Vellior
-  - Tetrarch Kaitar
-  - Tetrarch Talloth
-  - Tetrarch Thifiell
-
-- **B** Temple of Shilen
-  - Abyssal Celebrant Cecktinon
-  - Abyssal Celebrant Poeny
-  - Abyssal Celebrant Prakia
-  - Abyssal Celebrant Kartia
-  - Abyssal Celebrant Undrias
-  - Abyssal Celebrant Mitraell
-
-- **C** Astaron
-
-- **D** Jewel
-
-- **E** Jughead
-
-- **F** Karina
-
-- **G** Guide Franz
-
-- **M** Magic
+**A**: Master Harant ✸  
+  - Master Trudy ✸  
+  - Magister Vlasty ◆  
+  - Magister Harne ◆  
+  - Tetrarch Vellior  
+  - Tetrarch Kaitar  
+  - Tetrarch Talloth  
+  - Tetrarch Thifiell  
+  
+**B**: Temple of Shilen  
+  - Abyssal Celebrant Cecktinon  
+  - Abyssal Celebrant Poeny  
+  - Abyssal Celebrant Prakia  
+  - Abyssal Celebrant Kartia  
+  - Abyssal Celebrant Undrias  
+  - Abyssal Celebrant Mitraell  
+  
+**C**: Astaron  
+**D**: Jewel  
+**E** Jughead  
+**F** Karina  
+**G** Guide Franz  
+**M** Magic  
   - Trader Vollodos (Jewelry)
   - Trader Minaless (Books)
 
-- **S** Smithy
+**S** Smithy  
   - Blacksmith Karrod
 
-- **T** Gatekeeper Jasmine
+**T** Gatekeeper Jasmine
 
-- **W** Warehouse
-  - Wareh. Freightman Collette
-  - Warehouse Keeper Dorankus
+**W** Warehouse  
+  - Wareh. Freightman Collette  
+  - Warehouse Keeper Dorankus  
   - Warehouse Keeper Erviante
 
-- **X** Weapons & Armor
-  - Trader Payne
+**X** Weapons & Armor  
+  - Trader Payne  
   - Trader Iria
 
 ---
 
-### North
-
-![Map](map_image.png)
-
-#### Legend:
-
-- **W** Warehouse
-- **X** Weapons & Armor
-- **S** Smithy
-- **T** Gatekeeper Jasmine
-- **A** Master Harant, Master Trudy, Magister Vlasty, Magister Harne, Tetrarch Vellior, Tetrarch Kaitar, Tetrarch Talloth, Tetrarch Thifiell
-- **B** Temple of Shilen
-- **C** Astaron
-- **D** Jewel
-- **E** Jughead
-- **F** Karina
-- **G** Guide Franz
-- **M** Magic
-
-#### Points of Interest:
-
-1. Sentry Knight Rayla
-2. Temple of Shilen (DE start)
-   - Sentry Roselyn
-   - Sentry Jenna
-   - Sentry Nelsya
-   - Sentry Altimia
-   - Sentry Marion
-   - Sentry Kayleen
-   - Sentry Kristin
-
-3. School of Dark Arts (Dn)
+**①** → *Sentry Knight Rayla*  
+  - Sentry Roselyn
+  
+**②** → *Temple of Shilen (DE start)*  
+  - Sentry Jenna  
+  - Sentry Nelsya  
+  
+**④** → *School of Dark Arts (Dn)*  
+  - Sentry Altimia  
+  - Sentry Marion  
+  - Sentry Kayleen  
+  - Sentry Kristin  
+  
 
 ### DARK ELVEN VILLAGE REGULAR QUESTS
+
+<div class="noborder-table compact-table" markdown>
 
 | Quest                  | Lvl | Race/Class     | What?       | Who Gives It?      | Where?            | Rpt? | Reward                     |
 |------------------------|-----|----------------|-------------|--------------------|-------------------|------|----------------------------|
@@ -106,6 +87,4 @@
 | Dangerous Seduction    | 21  | Dark Elf       | Hunt/Collect| Tetrarch Vellior    | Dark Elven Village| N    | Bone Piece Breastplate     |
 | Dwarven Kinship        | 25  | All            | Delivery    | Wareh. Freightman Collette | Dark Elven Village| N    | 6100a                      |
 
---- 
-
-*Primagames.com*
+</div>
