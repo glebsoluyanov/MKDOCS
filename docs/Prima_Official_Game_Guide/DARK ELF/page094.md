@@ -1,11 +1,9 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# SHILLIEN ELDER
-
-*(← SHILLIEN ORACLE ← DARK MYSTIC)*
+# 92 SHILLIEN ELDER
+## SHILLIEN ELDER (← SHILLIEN ORACLE ← DARK MYSTIC)
 
 Along with its cousin, the Elven Elder, Shillien Elder differs from the Human Prophet and Bishop in that it gets both new buffs and new heals. It doesn’t have as many buffs as the Prophet, or as many heals as a Bishop, but the important thing is it has both!
 
-## Skills & Notes:
 - From here on out, you get no more levels of Sleep, but many more levels of Root. Start relying more on Root than Sleep.
 - Death Whisper is one of your new buffs, and a good one at that. Coupled with Focus, this skill makes for a deadly dagger or bow user, and is no small help to any Fighter type.
 - Whether power-leveling a friend or hunting yellows and up, Guidance is a huge help to your party members, especially dagger users.
@@ -14,9 +12,10 @@ Along with its cousin, the Elven Elder, Shillien Elder differs from the Human Pr
 - From this point on, instead of Heal, you get Greater Heal. This skill works the same as its lesser counterpart, but with more power and more cost. The good news is you can keep your old healing spell as well, for when you only need a little help.
 - Be careful — Shillien Elders do not get Greater Quick Heal or Greater Group Heal. You will have to continue relying on your lower-level Group and Battle Heal in a pinch.
 - Purify will be your best friend throughout sieges and boss hunts — especially Antharas! You are the only class that gets this skill, and it is amazingly helpful. When you have a party member who is poisoned, bleeding or paralyzed (especially the last, as it lasts 2 minutes and is otherwise incurable) Purify can remove the status ailment and return your party to normal!
+![1.jpg](../../assets/images/94/1.jpg){width=300 align=right}
 - If you’re in a party or near a Bishop or Elven Elder when a friend dies, let the Bishop or Elven Elder resurrect your pal for you. You only have Resurrection 2 (restores 20% of lost EXP); the Bishop and Elven Elder have Greater Resurrection 4, which restores 40% of lost EXP.
 
-## HP / MP BY LEVEL
+### HP / MP BY LEVEL
 | LEVEL | HP   | MP   |
 |-------|------|------|
 | 41    | 1149 | 731  |
@@ -39,9 +38,6 @@ Along with its cousin, the Elven Elder, Shillien Elder differs from the Human Pr
 | 58    | 2049 | 1417 |
 | 59    | 2105 | 1460 |
 | 60    | 2162 | 1503 |
-
-| LEVEL | HP   | MP   |
-|-------|------|------|
 | 61    | 2219 | 1546 |
 | 62    | 2277 | 1590 |
 | 63    | 2335 | 1634 |
@@ -62,5 +58,3 @@ Along with its cousin, the Elven Elder, Shillien Elder differs from the Human Pr
 | 78    | 3249 | 2330 |
 | 79    | 3312 | 2379 |
 | 80    | 3377 | 2428 |
-
-![Shillien Elder in Game](#)

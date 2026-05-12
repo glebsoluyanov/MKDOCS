@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# DARK MYSTIC
+# 86 DARK MYSTIC
+## DARK MYSTIC
 
 ## PROS
 - Powerful damage spells
@@ -8,6 +9,10 @@
 
 ## CONS
 - Low CON and consequently relatively low hit points (HP)
+
+|**STR**|**WIT**|**CON**|**INT**|**DEX**|**MEN**|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|23     |19     |24     |44     |23     |37     |  
 
 ## GETTING STARTED
 - As soon as your character is created, equip your items and set up your quick bar with your preferred spells, actions and other items. To equip yourself, double-click on them in your inventory; you have:
@@ -23,26 +28,15 @@
 
 - Pay attention to the con level (color) of the creatures you are fighting.
 
----
-
-### STR 23 | WIT 19 | CON 24  
-### INT 44 | DEX 23 | MEN 37  
-
 - Be aware of which creatures will group and which are aggressive. This is very important to your ability to level quickly.
 
-- You will want to get started running quests right away. They are a good way to earn adena and exp while getting to know your character’s abilities and see some of the land. Do not waste your time fighting creatures without being in the process of doing a quest. You can kill two birds with one stone: *always have a quest going*.
-
----
+- You will want to get started running quests right away. They are a good way to earn adena and exp while getting to know your character’s abilities and see some of the land. Do not waste your time fighting creatures without being in the process of doing a quest. You can kill two birds with one stone: *always* have a quest going.
 
 ## Questing
 - Start out with the Dark Elf’s Tutorial quest by talking to one of the Abyssal Celebrants. This quest will introduce you the Dark Elven race and history. Doing this quest, you will also learn basic concepts of the game. As a reward, you receive a world map which will come in very handy throughout the game.
 
----
-
-## Mass of Darkness
+### Mass of Darkness
 - Talk to Abyssal Celebrant Undrias just outside of the Dark Elven Temple to start this quest. It will give you an opportunity to visit and explore the Dark Elven Village. Make sure you kill anything in your path from the temple to the village to keep the XP and adena machines rolling! As a reward, you will be given adena and experience.
 
----
-
-## Delivery Supplies
+### Delivery Supplies
 - Talk to Sentry Jenna outside of the DE Village to start this quest. Again, kill anything you come across during this quest, but do not get too side-tracked. Your reward for this quest: more adena.

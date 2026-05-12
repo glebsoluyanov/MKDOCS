@@ -1,5 +1,6 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# SHILLIEN ORACLE (Dark Mystic)
+# 91 SHILLIEN ORACLE
+# SHILLIEN ORACLE (← Dark Mystic)
 
 Shillien Oracle is a support class that features an impressive M.Atk buff called Empower and naturally high INT. While not as powerful as a Wizard, it still makes sense for a Shilien Oracle to have a high M.Atk weapon available for solo and small-group attack support.
 
@@ -23,7 +24,7 @@ Shillien Oracle is a support class that features an impressive M.Atk buff called
 
 - When in a party, save your MP for healing and use your weapon to score melee hits for supporting damage. It will look like you are just watching and not contributing, but your heals help the party last significantly longer than they could without you.
 
-## HP / MP BY LEVEL
+### HP / MP BY LEVEL
 
 | LEVEL | HP  | MP  |
 |-------|-----|-----|
@@ -37,9 +38,6 @@ Shillien Oracle is a support class that features an impressive M.Atk buff called
 | 28    | 659 | 436 |
 | 29    | 694 | 456 |
 | 30    | 729 | 477 |
-
-| LEVEL | HP   | MP  |
-|-------|------|-----|
 | 31    | 765  | 498 |
 | 32    | 801  | 519 |
 | 33    | 874  | 562 |

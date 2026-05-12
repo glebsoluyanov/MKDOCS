@@ -3,7 +3,7 @@
 ## DARK ELVEN VILLAGE
 
 The Dark Elven Village and surrounding area is the Dark Elf Fighter and Mystic starting spot. Once in a while you will see members of other races exploring this area.
-
+![1.jpg](../../assets/images/77/2_ai.png){width=200 align=left}
 This area is populated with good hunting ground for DE classes from levels 1–20 and a very challenging dungeon — the School of the Dark Arts or SoDA as it is commonly called — which is challenging for levels up to 45 in its depths.
 
 The DE village contains a weapon/armor shop, a magic shop, a warehouse, a gatekeeper (for travel to other locations) and all the trainers you will need for DE Fighter classes and mage classes town guide. 

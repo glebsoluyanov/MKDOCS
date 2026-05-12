@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# DARK WIZARD (DARK MYSTIC)
+# 88 DARK WIZARD
+# DARK WIZARD ( ← DARK MYSTIC)
 
 The Dark Wizard gives you a taste of both of your Level 40 class choices: Spellhowler, the highly offensive caster, and Phantom Summoner, the powerful shadow summoner. Try out both kinds of magic (offense and summon) and decide what you want to be. Remember though, summoning gets much easier after Level 40. (No six-hour wait between summons!)
 
@@ -15,19 +16,15 @@ The Dark Wizard gives you a taste of both of your Level 40 class choices: Spellh
 
 - If you find yourself being chased by too many monsters, use Sleep to make them inactive for 30 seconds. Note that Sleep is broken for a monster the moment it's hit.
 
-- As a Wizard, you get no more healing ... but you do get spells that make up for it.
-
----
-
-Corpse Life Drain is one of these. Like Vampiric Touch, Corpse Life Drain takes HP from a monster and gives it to you. Unlike Vampiric Touch, Corpse Life Drain only works on a dead monster, not a live one.
+- As a Wizard, you get no more healing ... but you do get spells that make up for it.Corpse Life Drain is one of these. Like Vampiric Touch, Corpse Life Drain takes HP from a monster and gives it to you. Unlike Vampiric Touch, Corpse Life Drain only works on a dead monster, not a live one.
 
 - Not only can you use your Servivor heals and buffs on your summoned pets, but you can use them on "natural" pets (wolves and dragon hatchlings) too. This makes Wizards and Summoners the most effective pet users.
-
+![1.jpg](../../assets/images/90/1.jpg){width=300 align=right}
 - Of all the Mystics and Wizards, the Dark Wizard is the highest damage dealer — the dagger user of Mystics, if you will. Still, like the highest damage dealers of the Fighter class and like any Mystic, you are not a tank and do not take hits very well. Either find slow monsters and use the herding technique, or get into a group with a Fighter or two.
 
 ---
 
-## HP / MP BY LEVEL
+### HP / MP BY LEVEL
 
 | Level | HP  | MP  |
 |-------|-----|-----|
@@ -51,7 +48,3 @@ Corpse Life Drain is one of these. Like Vampiric Touch, Corpse Life Drain takes 
 | 38    | 896 | 649 |
 | 39    | 927 | 671 |
 | 40    | 957 | 694 |
-
----
-
-![LINEAGE II Game Scene](image-placeholder)
