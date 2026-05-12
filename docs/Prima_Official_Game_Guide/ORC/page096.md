@@ -2,68 +2,67 @@
 # 94 ORC VILLAGE
 ## ORC VILLAGE
 
-## North
+![map.jpg](../../assets/images/96/map.jpg){width=450 align=right}
+![1.jpg](../../assets/images/96/1_ai.png){width=350 align=right}
 
-### Key
+✱ Melee Trainer  ◆ Mystic Trainer
 
-- **A** Seer Tanapi ♠  
-  Seer Livina ♠  
-  Urutu Chief Hatos  
-  Flame Lord Kakai  
-  Neruga Chief Tantus
+### KEY
 
-- **B** Prefect Bruurse ✱  
-  Prefect Karukia ✱
+**A**: Seer Tanapi ◆  
+  - Seer Livina ◆  
+  - Urutu Chief Hatos  
+  - Flame Lord Kakai  
+  - Neruga Chief  
+  - Tantus
 
-- **C** Temple of Paagrio  
-  Fire Priestess Shela  
-  Flame Guardian Vulkan  
-  Fire Priest Tokum
+**B**: Prefect Bruurse ✱  
+  - Prefect Karukia ✱
 
-- **D** Atuba Chief Varkees
+**C**: Temple of Paagrio  
+  - Fire Priestess Shela  
+  - Flame Guardian  
+  - Vulkus  
+  - Fire Priest Tokum
 
-- **E** Hestui Totem Spirit
+**D**: Atuba Chief  
+  - Varkees
 
-- **F** Gantaki Zu Urutu
+**E**: Hestui Totem Spirit
 
-- **G** Guide Tanai
+**F**: Gantaki Zu Urutu
 
-- **H** Tataru Zu Hestui
+**G**: Guide Tanai
 
-- **M** Magic  
-  Trader Uska (Jewelry)  
-  Trader Papuma (Amulets)
+**H**: Tataru Zu Hestui
 
-- **S** Smithy  
-  Blacksmith Sumari
+**M**: Magic  
+  - Trader Uska (Jewelry)  
+  - Trader Papuma (Amulets)
 
-- **T** Gatekeeper Tamil
+**S**: Smithy  
+  - Blacksmith Sumari
 
-- **X** Weapons & Armor  
-  Trader Jakal  
-  Trader Kunai
+**T**: Gatekeeper Tamil
 
-- **W** Warehouse  
-  Warehouse Keeper Grookin  
-  Warehouse Keeper Imantu
+**X**: Weapons & Armor  
+  - Trader Jakal  
+  - Trader Kunai
 
-- **①** Centurion Nakusin  
-  Centurion Tamai
+**W**: Warehouse  
+  - Warehouse Keeper Grookin  
+  - Warehouse Keeper Imantu
 
-- **②** Frozen Waterfalls  
-  Praetorian Rukain  
-  Centurion Parugon
+**①**: Centurion Nakusin  
+  - Centurion Tamai
 
-- **③** Centurion Petukai  
-  Centurion Vapook
+**②** → *Frozen Waterfalls*  
+  - Praetorian Rukain  
+  - Centurion Parugon
 
-- **④** Southern Fields  
-  Centurion Tiku  
-  Centurion Orinak
+**③**: Centurion Petukai  
+  - Centurion Vapook
 
-- ✱ Fighter Trainer  
-- ♠ Mystic Trainer
-
----
-
-*Primagames.com | Page 94*
+**④** → *Southern Fields*  
+  - Centurion Tiku  
+  - Centurion Orinak

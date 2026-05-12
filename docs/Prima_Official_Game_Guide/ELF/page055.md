@@ -1,7 +1,7 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
 # 53 INTRODUCTION
 ## ELF
-
+![1.jpg](../../assets/images/55/1_ai.png){width=350 align=right}
 The Elves of *Lineage II* worship the goddess of water and are in tune with nature. Elven Fighters and Mystics are tuned to be fast and accurate with a high DEX (for Fighters) and WIT (for Mystics), but pay for this with a low STR (Fighters) and INT (Mystics).
 
 Elven Fighters can choose to be Elven Knights (heavy armor, swords/blunts) or Elven Scouts (light armor, dagger and/or bow). Elven Fighters have high speed, accuracy, evasion, frequent critical hits, but less damage per hit. All Elven Fighters get two very unique skills: Charm and Elemental Heal. Charm works like an opposite-hate, that is, it convinces monsters not to hit you. Elemental Heal is a high-cost heal, though it beats having nothing.

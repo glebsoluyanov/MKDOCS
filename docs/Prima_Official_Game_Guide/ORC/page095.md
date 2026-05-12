@@ -1,7 +1,7 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
 # 93 INTRODUCTION
 ## ORC
-![1.jpg](../../assets/images/95/1.jpg){width=350 align=right}
+![1.jpg](../../assets/images/95/1_ai.png){width=350 align=right}
 After eradicating the Giants, Orcs defeated the Elves and ruled the land until the Human-Elf alliance forced them back to Elmore. Orcs worship the god of fire, Paagrio. Orcs have very high durability (high CON).
 
 Orc Fighters can choose to be Orc Raiders (flexible armor, swords and/or blunts, unique life-saving skills) or Orc Monks (light armor, fist weapons, unique self buffs). Orcs have the highest CON, which means that they have the highest HP and HP regeneration speed of any race. Their low speed balances this out.
