@@ -1,4 +1,5 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
+# 103 TYRANT
 # TYRANT (← MONK ← ORC FIGHTER)
 
 Tyrants draw their power from the strength of the highest priests in the Temple of Fire. They emerge from the ranks of Monks, but are much more seasoned in their fist-fighting abilities.

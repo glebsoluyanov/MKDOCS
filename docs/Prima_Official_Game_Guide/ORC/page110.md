@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# 108 WARCRIER (ORC SHAMAN ← ORC MYSTIC)
+# 108 WARCRYER
+# WARCRYER (← ORC SHAMAN ← ORC MYSTIC)
 
 As a Warcryer, you are primarily focused on party buffs and single-target attacks. This means that you use less MP per cast then your Overlord cousin, but you affect fewer targets at a time.
 

@@ -1,5 +1,6 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# ORC FIGHTER
+# 99 ORC FIGHTER
+## ORC FIGHTER
 
 Don’t leave Orc land until you’re ready to do your profession quest! There’s plenty of stuff to kill in the Cave of Trials at Levels 15-19, and you will want to load up on adena and fill out your armor before you start the Monk or Raider quests.
 

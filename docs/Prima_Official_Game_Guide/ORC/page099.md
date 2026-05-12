@@ -1,5 +1,6 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# ORC: CAVE OF TRIALS
+# 97 CAVE OF TRIALS
+## CAVE OF TRIALS (ORC DUNGEON)
 
 The cave is on the east side of the map. You’ll need to stay on the high road to get there, so don’t try to shortcut it with a jump off the cliffs. Follow the north road out of town and then head south after you pass the Frozen Waterfalls. The cave is past the second wooden bridge.
 

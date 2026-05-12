@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# ORC MYSTIC
+# 104 ORC MYSTIC
+## ORC MYSTIC
 
 ## PROS
 - Lots of CON, which gives lots of hit points

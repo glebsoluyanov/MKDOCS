@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# CAVE OF TRIALS (ORC DUNGEON)
+# 96 CAVE OF TRIALS
+## CAVE OF TRIALS (ORC DUNGEON)
 
 ## KEY
 

@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-### ORC FIGHTER  
+# 98 ORC FIGHTER
+## ORC FIGHTER
 
 **PROS**  
 - Highest HP value of any race — great for meleeing!  

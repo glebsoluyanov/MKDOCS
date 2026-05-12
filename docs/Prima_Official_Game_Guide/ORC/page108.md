@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# 106 ORC SHAMAN (← ORC MYSTIC)
+# 106 ORC SHAMAN
+# ORC SHAMAN (← ORC MYSTIC)
 
 For anyone who cannot decide between fighter and mystic, the Orc Shaman is the best route for you to go! With high HP and Soul Cry, not to mention that it’s the only mystic with a physical attack (Stun), the Shaman can act like a tank in desperate situations. Likewise, with the combo of sleep and its arsenal of Damage over Time spells, it makes for a deadly mystic, whether hunting monsters or in the PvP arena.
 

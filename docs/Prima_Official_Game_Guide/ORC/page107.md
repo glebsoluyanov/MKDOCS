@@ -1,4 +1,6 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
+# 105 ORC MYSTIC
+## ORC MYSTIC
 - Armor path is finalized here as well. If you’re planning to stay with robes or light armor, continue training the appropriate skill. If you’re planning to head to heavy armor, now’s the time to start training this skill. Usually Orc Mages who want heavy armor move to this path in their late teens. It should be noted that most Orc Mages tend toward light or heavy armor, not robes.
 - Venom 2 and Fear 1 are not as generally useful, so it might be better to skip these and save your points for later.
 

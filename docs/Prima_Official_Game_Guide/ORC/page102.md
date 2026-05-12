@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# ORC RAIDER (←ORC FIGHTER)
+# 100 ORC RAIDER
+# ORC RAIDER (← ORC FIGHTER)
 
 The Orcish equivalent of a Human Warrior, the Orc Raider is a powerful attacker and hard to kill, due to its stockpile of ‘emergency skills.’ The downside is a much slower run speed, making it even more kitable then Humans.
 

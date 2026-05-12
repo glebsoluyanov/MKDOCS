@@ -1,5 +1,6 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# ORC: ORC VILLAGE
+# 95 ORC VILLAGE
+## ORC VILLAGE
 
 Perched high atop the bluffs of the Immortal Plateau, the home village of the Orcs resembled a fortified military installation instead of a friendly city. Its west walls lead to the Temple of Paagrio (where you start), and the other edges of the village overlook the rugged mountains of Elmore. The first thing you'll notice about this area is that the Orcs' strength is offset by the difficulty in getting from one place to another. No nice little trek across a plateau — leave that for the weakling Humans in Talking Island Village! Here, the easiest way to get from point A (town) to point B (mobs) is to jump off the cliffs. Literally. (One caveat — right now, there's no fall damage, but we can't promise that won't change in the future.)
 

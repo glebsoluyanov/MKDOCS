@@ -1,7 +1,7 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
 # 77 SCHOOL OF DARK ARTS (DUNGEON)
 
-![1.jpg](../../assets/images/79/1.jpg){width=200 align=right}
+![1.jpg](../../assets/images/79/1.png){width=300 align=right}
 **1.**   
 - 3 Skeleton Hunter (12)*  
 - 3 Skeleton Hunter Archer (13)   

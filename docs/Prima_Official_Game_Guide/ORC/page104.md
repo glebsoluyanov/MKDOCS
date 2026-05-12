@@ -1,5 +1,6 @@
 ![l2_top.png](../../assets/images/l2_top.png)
-# MONK (←ORC FIGHTER)
+# 102 MONK
+# MONK (← ORC FIGHTER)
 
 **The worship of Paagrio trains Orc Fighters who want to be strong physically, rather than having strength with weapons as priests. They seek to master the science of fisticuffs according to their religious background.**
 

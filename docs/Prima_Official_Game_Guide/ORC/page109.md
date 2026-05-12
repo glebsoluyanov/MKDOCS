@@ -1,5 +1,6 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# OVERLORD (✦ ORC SHAMAN ✦ ORC MYSTIC)
+# 107 OVERLORD
+# OVERLORD (← ORC SHAMAN ← ORC MYSTIC)
 
 As an Overlord, you are a master of seals and clan buffs. The bad news? Seals and clan buffs take a lot of MP and SP. Change into robes if you aren’t wearing them already; with buffs that cost 257+ MP — yet can buff an entire clan of 40 people if they stand near you! — you will need that extra robe boost.
 

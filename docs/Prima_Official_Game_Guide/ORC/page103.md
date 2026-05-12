@@ -1,5 +1,6 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
-# DESTROYER (← ORC RAIDERS → ORC FIGHTER)
+# 101 DESTROYER
+## DESTROYER (← ORC RAIDERS ← ORC FIGHTER)
 
 ## Why Destroyer?
 

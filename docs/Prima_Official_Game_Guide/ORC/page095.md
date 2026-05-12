@@ -1,7 +1,7 @@
 ![l2_top2.png](../../assets/images/l2_top2.png)
 # 93 INTRODUCTION
 ## ORC
-
+![1.jpg](../../assets/images/95/1.jpg){width=350 align=right}
 After eradicating the Giants, Orcs defeated the Elves and ruled the land until the Human-Elf alliance forced them back to Elmore. Orcs worship the god of fire, Paagrio. Orcs have very high durability (high CON).
 
 Orc Fighters can choose to be Orc Raiders (flexible armor, swords and/or blunts, unique life-saving skills) or Orc Monks (light armor, fist weapons, unique self buffs). Orcs have the highest CON, which means that they have the highest HP and HP regeneration speed of any race. Their low speed balances this out.
@@ -10,19 +10,29 @@ Orc Mystics are a hybrid class, part-Fighter and part-Mystic. Orc Mages have the
 
 ---
 
-## Orc Fighter
+``` mermaid
+flowchart TB
+    A[ORC FIGHTER] --> |20lvl|B
+    A[ORC FIGHTER] --> |20lvl|C
 
-| **Orc Monk** | 20 | **Orc Raider** |
-|--------------|----|----------------|
-| Tyrant       | 40 | Destroyer      |
+    B[Orc Monk] --> |40lvl|B1
 
-## Orc Mystic
+    B1[Tyrant]
 
-| 20 | **Orc Shaman** |
-|----|----------------|
-| 40 | Overlord        |
-|    | Warcryer        |
+    C[Orc Raider] --> |40lvl|C1
 
----
+    C1[Destroyer]
 
-DARK MYSTIC: SHILLIEN ELDER / ORC
+```
+
+``` mermaid
+flowchart TD
+    A[ORC MYSTIC] --> |20lvl|B
+
+    B[Orc Shaman] --> |40lvl|B1
+    B[Orc Shaman] --> |40lvl|B2
+
+    B1[Overlord]
+    B2[Warcryer]
+
+```
