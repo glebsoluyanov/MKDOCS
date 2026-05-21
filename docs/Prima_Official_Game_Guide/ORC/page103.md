@@ -2,7 +2,7 @@
 # 101 DESTROYER
 ## DESTROYER (← ORC RAIDERS ← ORC FIGHTER)
 
-## Why Destroyer?
+### Why Destroyer?
 
 You can be a battle-armored tank, pure and simple! By Level 45, you have close to 2600 HP, and with a good buffer in your party, you can get hundreds more prior to battle.
 
@@ -20,7 +20,15 @@ You can be a battle-armored tank, pure and simple! By Level 45, you have close t
 
 - In your late thirties and early 40s, accumulate as many skill points as possible! You will be spending boatloads of SP once you hit 45. If you plan to do any soloing or self-buffs for health, you’re going to need HP regen skills, and even boosting Battle Roar to Level 2 will cost you 40K SP.
 
-## HP / MP BY LEVEL
+- If you run strictly with parties that have heavy buffing skills, then you can forego the skills that aid HP recovery during battle (including Vital Force, Battle Roar and Boost HP). This will make you a more powerful attacker, since you can focus on boosting your stuns and weapon skills. But you’ll be more vulnerable if you’re ever caught alone.
+
+- Destroyers, while powerful, shouldn’t solo. You will never be able to run away.
+
+- At Level 52, you get Expertise B, which allows you to use B-C-grade weapons. So, stay with a reasonable C-grade weapon and armor until you’re ready to upgrade!
+
+- Once you figure out your weapon, choose your armor. You can develop Light Armor Mastery — good for Evasion and a little bit of added speed — but if you’re going to tank, you really need Heavy Armor Mastery.
+
+### HP / MP BY LEVEL
 
 | LEVEL | HP   | MP   |
 |-------|------|------|
@@ -64,11 +72,3 @@ You can be a battle-armored tank, pure and simple! By Level 45, you have close t
 | 78    | 6001 | 1579 |
 | 79    | 6124 | 1612 |
 | 80    | 6249 | 1645 |
-
-- If you run strictly with parties that have heavy buffing skills, then you can forego the skills that aid HP recovery during battle (including Vital Force, Battle Roar and Boost HP). This will make you a more powerful attacker, since you can focus on boosting your stuns and weapon skills. But you’ll be more vulnerable if you’re ever caught alone.
-
-- Destroyers, while powerful, shouldn’t solo. You will never be able to run away.
-
-- At Level 52, you get Expertise B, which allows you to use B-C-grade weapons. So, stay with a reasonable C-grade weapon and armor until you’re ready to upgrade!
-
-- Once you figure out your weapon, choose your armor. You can develop Light Armor Mastery — good for Evasion and a little bit of added speed — but if you’re going to tank, you really need Heavy Armor Mastery.

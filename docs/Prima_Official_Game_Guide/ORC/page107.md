@@ -4,7 +4,7 @@
 - Armor path is finalized here as well. If you’re planning to stay with robes or light armor, continue training the appropriate skill. If you’re planning to head to heavy armor, now’s the time to start training this skill. Usually Orc Mages who want heavy armor move to this path in their late teens. It should be noted that most Orc Mages tend toward light or heavy armor, not robes.
 - Venom 2 and Fear 1 are not as generally useful, so it might be better to skip these and save your points for later.
 
-# HUNTING TIPS
+### HUNTING TIPS
 
 - **Levels 1-4**: Hunt anything near your start point. These levels should be fast and easy.
 - **Levels 5-6**: Do you have a bow by now? If not, head to town and buy one. Once you do, you’re set to fight Wolves (4) Goblin Grave Robbers (5), and Kasha Wolves (6). Even though they are higher level than the goblins, the Kasha Wolves are actually a bit easier, because they do not “bring friends” when you attack them. The Wrath of the Ancestors quest is a solid, repeatable cash-quest that gives you extra rewards for fighting Grave Robbers.
@@ -14,7 +14,7 @@
 - **Levels 14-20**: At level 15, you can take on the Totem of the Hestui quest, which gives an extra reward for killing Kasha Bears. This is a very good money quest, and these should be a prime target through your late teens. DoT spells with spiritshots are very efficient. Kasha Spiders, Werewolf Chieftains and Greystone Golems (objectives of another repeatable quest) round out the best targets at these levels. Check out the Cave of Trials for a nice change of pace. This is better in your late teens, or with a strong group. The mobs at the bottom of this dungeon are still white to a Level 24!
 - **Near the Final Levels**: There’s little reason to leave Orcland until Level 20. The profession quest starts right here, but it requires you to travel back and forth to the mainland — complete the Gatekeeper’s Offering quest a couple of times before you start your profession quest, as the quest reward is free teleport tokens.
 
-## HP / MP BY LEVEL
+### HP / MP BY LEVEL
 
 | LEVEL | HP   | MP  |
 |-------|------|-----|
@@ -28,9 +28,6 @@
 | 8     | 227  | 140 |
 | 9     | 245  | 152 |
 | 10    | 263  | 164 |
-
-| LEVEL | HP   | MP  |
-|-------|------|-----|
 | 11    | 282  | 176 |
 | 12    | 300  | 189 |
 | 13    | 319  | 201 |
