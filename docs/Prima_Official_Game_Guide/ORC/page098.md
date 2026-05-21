@@ -3,7 +3,7 @@
 ## CAVE OF TRIALS (ORC DUNGEON)
 
 ## KEY
-
+![1.jpg](../../assets/images/98/1.jpg){width=400 align=right}
 **1**:  
   - 1 Scarlet Salamander (17)  
   - 2 Scarlet Salamand. Elder (18)
@@ -76,7 +76,7 @@
 **15**:  
   - 2 Kuruk. Ratman Hunter (17)*  
   - 3 Quicksilver Beast (15)*
-
+![1.jpg](../../assets/images/98/2_ai.png){width=300 align=right}
 **16**:  
   - 1 Quicksilver Beast (15)*
 
@@ -106,4 +106,4 @@
 **23**:  
   - Ancestor Martankus (NPC)
 
-- * Asterisks indicate aggressive monsters.
+> *Asterisks indicate aggressive monsters.

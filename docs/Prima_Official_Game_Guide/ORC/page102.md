@@ -1,7 +1,7 @@
 ![l2_top.png](../../assets/images/l2_top.png)
 # 100 ORC RAIDER
-# ORC RAIDER (← ORC FIGHTER)
-
+## ORC RAIDER (← ORC FIGHTER)
+![1.jpg](../../assets/images/102/1_ai.png){width=380 align=right}
 The Orcish equivalent of a Human Warrior, the Orc Raider is a powerful attacker and hard to kill, due to its stockpile of ‘emergency skills.’ The downside is a much slower run speed, making it even more kitable then Humans.
 
 - You can learn and use both blunt and polearm skills. Pick one style, and concentrate your skill points and adena on keeping it the best that it can be. The other style can come later.
@@ -11,14 +11,11 @@ The Orcish equivalent of a Human Warrior, the Orc Raider is a powerful attacker 
 - Fast HP Recovery is very important. It causes your HP regeneration speed to increase by a significant amount. This, coupled with Vital Force, makes a huge improvement when sitting or using Relax.
 - Rage subtracts 3 Evasion and 20% of your P.Def. On the other hand, it adds 45% to your P.Atk.
 
-## Battle Roar
-This skill is, in my opinion, the best skill of the 20-40 Warrior skills. This skill lasts about 12 minutes and has a 10-minute recharge time. While the skill is activated, the user is given 10% more hit points (e.g., if you have 1000 hitpoints maximum, you have 1100 hitpoints for the duration of this spell.)
+- Battle Roar - This skill is, in my opinion, the best skill of the 20-40 Warrior skills. This skill lasts about 12 minutes and has a 10-minute recharge time. While the skill is activated, the user is given 10% more hit points (e.g., if you have 1000 hitpoints maximum, you have 1100 hitpoints for the duration of this spell.)
 
-## Frenzy
-While Frenzy can only be used when you have less than 20% of your HP left, it gives you an amazing advantage. Think of this as the “I’m almost dead, let’s get me saved” skill, because that’s what it does. It casts quickly, and it doubles your P.Atk, so you have a good chance of killing whatever is hurting you before it kills you.
+- While Frenzy can only be used when you have less than 20% of your HP left, it gives you an amazing advantage. Think of this as the “I’m almost dead, let’s get me saved” skill, because that’s what it does. It casts quickly, and it doubles your P.Atk, so you have a good chance of killing whatever is hurting you before it kills you.
 
-## Guts
-Guts is lot like Frenzy, again only usable when you have less than 20% of your HP left. This time though, it doubles your P.Def, once again buying you time to stay alive.
+- Guts is lot like Frenzy, again only usable when you have less than 20% of your HP left. This time though, it doubles your P.Def, once again buying you time to stay alive.
 
 ### HP / MP BY LEVEL
 
@@ -34,9 +31,6 @@ Guts is lot like Frenzy, again only usable when you have less than 20% of your H
 | 28    | 1063| 295 |
 | 29    | 1126| 309 |
 | 30    | 1189| 323 |
-
-| Level | HP   | MP  |
-|-------|------|-----|
 | 31    | 1253 | 337 |
 | 32    | 1318 | 352 |
 | 33    | 1383 | 360 |

@@ -13,31 +13,26 @@ The cave has a river that runs through it, just past the main chamber. If you ju
 
 **Good Locations.** It really depends on what level you are, and whether you’re grouping or soloing. Unless you’re Level 19 or 20, your best bet is to group — preferably, a very powerful group!
 
----
+**What Monsters Help.** Baranku types, Skeleton types (including Undead Slaves), Scarlet Salamander types (help elementals), Kuruka Ratmen and Hunters, Crypt Horrors, Evil Eye Watchers, Evil Eye Lookouts, Grave Keepers
 
-## What Monsters Help  
-Baranku types, Skeleton types (including Undead Slaves), Scarlet Salamander types (help elementals), Kuruka Ratmen and Hunters, Crypt Horrors, Evil Eye Watchers, Evil Eye Lookouts, Grave Keepers
+**What Monsters Aggro.** Quicksilver Beast, Slave Skeleton, Crypt Horror, Baranka Escort/Guard, Ghost Guardian
 
-## What Monsters Aggro  
-Quicksilver Beast, Slave Skeleton, Crypt Horror, Baranka Escort/Guard, Ghost Guardian
+**Boss.** Evil Eye Lord (level 37)
 
-## Boss  
-Evil Eye Lord (level 37)
+### Things to Watch For  
 
----
+*Magic Users.* Undead Slave, Grave Keeper  
+*Archers.* None  
 
-## Things to Watch For  
-
-**Magic Users.** Undead Slave, Grave Keeper  
-**Archers.** None  
-
-**Other.** Many chambers (and the river) have drop-offs. If you go down into a room, you may have to take another route out. Watch out for the “pit” area near the front of the Cave! Heading south down the river will force you into that area before you can get out.
+*Other.* Many chambers (and the river) have drop-offs. If you go down into a room, you may have to take another route out. Watch out for the “pit” area near the front of the Cave! Heading south down the river will force you into that area before you can get out.
 
 Oh, and don’t forget to buy those Scrolls of Escape and Healing Potions before you head out ...
 
 ---
 
-# ORC VILLAGE REGULAR QUESTS  
+### ORC VILLAGE REGULAR QUESTS  
+
+<div class="compact-table" markdown>
 
 | Quest                  | Lvl | Race/Class | What?     | Who Gives It?           | Where?       | Rpt? | Reward               |
 |------------------------|-----|------------|-----------|--------------------------|--------------|------|-----------------------|
@@ -52,4 +47,6 @@ Oh, and don’t forget to buy those Scrolls of Escape and Healing Potions before
 | Gatekeeper’s Offering  | 15  | All        | Hunt/Collect | Gatekeeper Tamil          | Orc Village  | Y    | Gatekeeper Charm      |
 | Totem of the Hestui    | 15  | Orc        | Hunt/Collect | Seer Tanapi              | Orc Village  | Y    | 5200a                 |
 
-*Pre-req: Must complete previous quests in order.
+</div>
+
+> *Pre-req: Must complete previous quests in order.
