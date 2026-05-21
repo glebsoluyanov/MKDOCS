@@ -15,7 +15,7 @@ The plateau area about halfway between the village and the falls is a good place
 **What Monsters Help** Rakeclaw Imp types, Goblin Grave Robbers, Mountain Fungi, Maraku Werewolf types
 
 **What Monsters Aggro** Kasha Bear, Grizzly, Rakeclaw Imp Chieftain
-![1.jpg](../../assets/images/97/1.jpg){width=350 align=right}
+![1.jpg](../../assets/images/97/1_ai.png){width=350 align=right}
 **Centurion Nakusin** Centurion Nakusin is a bit of a grump. When you do the Lord of Flame quest, write down the items that asks you to get: Varkees (honey khendar), Tataru Zu Hestui (bear fur cloak), Uska (ancestor's skull), Grookin (axe), Gantaki Zu Urutu (orb), Kunai (spider dust).
 
 **Things to Watch For** Be careful of the area in front of the Frozen Waterfalls unless you're in the mid-to-late teens. Lots of aggro creatures hang out in the frozen plateau area and will train on you!
