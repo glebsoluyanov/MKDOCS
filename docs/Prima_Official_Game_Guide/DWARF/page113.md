@@ -15,18 +15,20 @@ There is little to distinguish the rest of Dwarfand, except perhaps the uniform 
 While you’re out in the wilderness, keep an eye out for PKers, but without the quick-kill skills of other classes, you usually don’t have to worry about red Dwarves.
 
 **What Monsters Help.** Goblin types (but not Goblin Lords), Utuku Orc types, Blade Bats, Garum Werewolves, Barbed Bats, Magical Weavers, Hunter Bears, Hunter Tarantulas, Plunder Tarantulas, Whinstone Golems, Obsidian Golems
-
+![1.jpg](../../assets/images/113/1.jpg){width=380 align=right}
 **What Monsters Aggro.** Goblin Brigand Lieutenant and Leader, Plunder Tarantula, Twink Puma
 
 **Things to Watch For**
 
-Archers. Utuku Orc Archers
+*Archers*. Utuku Orc Archers
 
-Casters. Whinstone and Obsidian Golems (damage), Magical Weaver (Mana drain, damage)
+*Casters*. Whinstone and Obsidian Golems (damage), Magical Weaver (Mana drain, damage)
 
 ---
 
 ## DWARVEN VILLAGE REGULAR QUESTS
+
+<div class="noborder-table compact-table" markdown>
 
 | QUEST                  | LVL | RACE/CLASS | WHAT?        | WHO GIVES IT?             | WHERE?              | RPT? | REWARD                          |
 |------------------------|-----|------------|--------------|----------------------------|---------------------|------|----------------------------------|
@@ -41,4 +43,4 @@ Casters. Whinstone and Obsidian Golems (damage), Magical Weaver (Mana drain, dam
 | Gatekeeper's Favor     | 15  | All        | Hunt/Collect | Gatekeeper Wirphy          | Dwarven Village     | Y    | Gatekeeper Token                |
 | Tarantula's Spider Silk| 15  | All        | Hunt/Collect | Trader Mion (* = pre-req)   | Dwarven Village     | Y    | x 20a                           |
 
----
+</div>
