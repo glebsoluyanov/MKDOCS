@@ -1,0 +1,143 @@
+# Equipment: Recipes
+
+- **Orcish Glaive** - 22,900
+- **Orcish Poleaxe** - 61,300
+- **Oriharukon** - 1,400
+- **Paagrio Axe** - 47,800
+- **Paagrio Hammer** - 43,000
+- **Paagrio Hand** - 1,610
+- **Paradia Boots** - 8,040
+- **Paradia Gloves** - 8,040
+- **Paradia Hood** - 5,360
+- **Paradia Staff** - 43,000
+- **Pata** - 78,300
+- **Phoenix Feather** - 61,300
+- **Phoenix Hood** - 5,360
+- **Piece Bone Breastplate** - 318
+- **Piece Bone Gaiters** - 199
+- **Plate Boots** - 978
+- **Plate Gaiters** - 2,440
+- **Plate Helmet** - 1,470
+- **Plate Shield** - 1,030
+- **Plated Leather** - 4,460
+- **Plated Leather Boots** - 1,260
+- **Plated Leather Gaiters** - 2,790
+- **Plated Leather Gloves** - 1,490
+- **Poleaxe** - 43,000
+- **Raid Sword** - 28,700
+- **Reinforced Mithril Gloves** - 1,260
+- **Rind Leather Armor** - 4,830
+- **Rind Leather Boots** - 1,610
+- **Rind Leather Gaiters** - 3,020
+- **Rind Leather Gloves** - 1,610
+- **Ring of Ages** - 1,960
+- **Ring of Black Ore** - 6,160
+- **Ring of Protection** - 1,300
+- **Ring of Sage** - 2,820
+
+- **RIP Gauntlets** - 747
+- **Robe of Seal** - 7,850
+- **Saber** - 4,090
+- **Sage's Necklace** - 5,650
+- **Sage's Rag** - 4,770
+- **Sage's Ring** - 2,820
+- **Sage's Staff** - 43,000
+- **Salamander Skin Mail** - 4,770
+- **Samurai Longsword** - 61,300
+- **Scale Gaiters** - 833
+- **Scale Mail** - 1,330
+- **Scallop Jamadhr** - 18,000
+- **Scorpion** - 47,800
+- **Scroll of Destruction** - 61,300
+- **Scythe** - 22,900
+- **Shamshir** - 28,700
+- **Shillian Knife** - 9,670
+- **Shining Circlet** - 3,680
+- **Short Spear** - 1,360
+- **Silver Arrow** - 900
+- **Silver Axe** - 22,900
+- **Silver Mold** - 500
+- **Skull Breaker** - 14,000
+- **Skull Graver** - 22,900
+- **Slamander Skin Boots** - 978
+- **Soulfire Dirk** - 28,700
+- **Soulshot: A Grade** - 75,000
+- **Soulshot: B Grade** - 50,000
+- **Soulshot: C Grade** - 30,000
+- **Soulshot: D Grade** - 2,500
+- **Spiked Club** - 9,670
+- **Spinebone Sword** - 6,440
+- **Spirit Sword** - 28,700
+
+- **Spiritshot: A Grade** - 75,000
+- **Spiritshot: B Grade** - 50,000
+- **Spiritshot: C Grade** - 30,000
+- **Spiritshot: D Grade** - 2,500
+- **Sprite's Staff** - 86,800
+- **Square Shield** - 1,030
+- **Staff of Evil Spirit** - 131,000
+- **Staff of Life** - 18,000
+- **Steel** - 340
+- **Steel Mold** - 500
+- **Steel Mold Helmet** - 2,060
+- **Stick of Eternity** - 43,000
+- **Stick of Faith** - 22,900
+- **Stiletto** - 28,700
+- **Stockings of Doom** - 15,100
+- **Stockings of Zubei** - 9,730
+- **Stormbringer** - 22,900
+- **Strengthened Long Bow** - 14,000
+- **Sword Breaker** - 2,440
+- **Sword of Damascus** - 131,000
+- **Sword of Delusion** - 43,000
+- **Sword of Limit** - 43,000
+- **Sword of Nightmare** - 43,000
+- **Sword of Reflection** - 1,360
+- **Sword of Revolution** - 84,000
+- **Sword of Valhalla** - 86,800
+- **Sword of Whispering Death** - 43,000
+- **Synthetic Cokes** - 500
+- **Tarbar** - 14,000
+- **Tears of Fairy** - 28,700
+- **Tempered Mithril Gaiters** - 2,370
+- **Temptation of Abyss** - 4,090
+- **Theca Leather Armor** - 8,250
+- **Theca Leather Boots** - 2,750
+
+- **Theca Leather Gaiters** - 5,160
+- **Theca Leather Gloves** - 2,750
+- **Three Eged Crow's Feather** - 61,300
+- **Tower Shield** - 2,580
+- **Trident** - 4,090
+- **Tsurugi** - 43,000
+- **Tunic of Doom** - 24,100
+- **Two-handed Sword** - 9,670
+- **Vajra Wands** - 18,000
+- **Varnish of Purity** - 500
+- **War Axe** - 43,000
+- **War Pick** - 14,000
+- **White Tunic** - 999
+- **Widow Maker** - 47,800
+- **Willow Staff** - 125
+- **Winged Spear** - 14,000
+- **Wolf Breastplate** - 32,200
+- **Wolverine Needle** - 22,900
+- **Wooden Arrow** - 300
+- **Yaksa Mace** - 61,300
+- **Zubei's Boots** - 5,190
+- **Zubei's Breastplate** - 20,800
+- **Zubei's Gaiters** - 13,000
+- **Zubei's Gauntlets** - 5,190
+- **Zubei's Helmet** - 7,780
+- **Zubei's Leather Gaiters** - 9,670
+- **Zubei's Leather Shirt** - 15,600
+- **Zubei's Shield** - 5,450
+
+![Character Design](https://via.placeholder.com/150)  
+*(Front View)*  
+*(Side View)*  
+*(Back View)*
+
+--- 
+
+*Page 135*

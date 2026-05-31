@@ -6,18 +6,18 @@
 #### ORC
 | Description     |     | Skills |
 |-----------------|:---:|:------:|
-|Introduction     | 93  |        |
-|Orc Village      | 94  |        |
-|Cave of Trials   | 96  |        |
-|Orc Fighter      | 98  | 374    |
-| ● Orc Raider    | 100 | 374    |
-| ● ● Destroyer   | 101 | 376    |
-| ● Monk          | 102 | 379    |
-| ● ● Tyrant      | 103 | 380    |
-|Orc Mystic       | 104 | 383    |
-| ● Orc Shaman    | 106 | 383    |
-| ● ● Overlord    | 107 | 385    |
-| ● ● Warcryer    | 108 | 387    |
+|Introduction     | [93](ORC/page095.md) |        |
+|Orc Village      | [94](ORC/page096.md) |        |
+|Cave of Trials   | [96](ORC/page098.md) |        |
+|Orc Fighter      | [98](ORC/page100.md) | 374    |
+| ● Orc Raider    | [100](ORC/page102.md) | 374    |
+| ● ● Destroyer   | [101](ORC/page103.md) | 376    |
+| ● Monk          | [102](ORC/page104.md) | 379    |
+| ● ● Tyrant      | [103](ORC/page105.md) | 380    |
+|Orc Mystic       | [104](ORC/page106.md) | 383    |
+| ● Orc Shaman    | [106](ORC/page108.md) | 383    |
+| ● ● Overlord    | [107](ORC/page109.md) | 385    |
+| ● ● Warcryer    | [108](ORC/page110.md) | 387    |
 
 </div>
 
@@ -26,16 +26,16 @@
 #### DWARF
 | Description                |     | Skills |
 |----------------------------|:---:|:------:|
-|Introduction                | 109 |        |
-|Dwarven Village             | 110 |        |
-|Abandoned Coal Mines (Dung.)| 112 |        |
-|Mithril Mines (Dungeon)     | 113 |        |
-|Dwarven Fighter             | 114 | 390    |
-| ● Scavenger                | 116 | 390    |
-| ● ● Bounty Hunter          | 118 | 391    |
-| ● Artisan                  | 117 | 394    |
-| ● ● Warsmith               | 118 | 395    |
-|Collecting & Crafting       | 119 |        |
+|Introduction                | [109](DWARF/page111.md) |        |
+|Dwarven Village             | [110](DWARF/page112.md) |        |
+|Abandoned Coal Mines (Dung.)| [112](DWARF/page114.md) |        |
+|Mithril Mines (Dungeon)     | [113](DWARF/page115.md) |        |
+|Dwarven Fighter             | [114](DWARF/page116.md) | 390    |
+| ● Scavenger                | [116](DWARF/page118.md) | 390    |
+| ● ● Bounty Hunter          | [118](DWARF/page120.md) | 391    |
+| ● Artisan                  | [117](DWARF/page119.md) | 394    |
+| ● ● Warsmith               | [118](DWARF/page120.md) | 395    |
+|Collecting & Crafting       | [119](DWARF/page121.md) |        |
 
 </div>
 

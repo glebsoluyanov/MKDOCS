@@ -1,0 +1,207 @@
+# MATERIALS
+
+Unless you or an ally crafts, materials have only one use — sale to the highest bidder.  
+All materials are stackable.
+
+## WEIGHT PAYS
+
+### Column 1
+
+- **Adamantite Boots Design** | 60 | 1,837
+- **Adamantite Earring Gemstone** | 60 | 1,907
+- **Adamantite Necklace Chain** | 2 | 2,509
+- **Adamantite Ring Wire** | 60 | 1,614
+- **Akai Longbow Shaft** | 60 | 20,565
+- **Ancient Reagent Remnant** | 60 | 11,406
+- **Animal Bone** | 2 | 75
+- **Animal Skin** | 2 | 75
+- **Aquastone Necklace Chain** | 60 | 1,328
+- **Aquastone Ring Wire** | 60 | 741
+- **Art of Battle Axe Blade** | 60 | 22,885
+- **Arthro Nail Blade** | 60 | 17,475
+- **Artisan’s Frame** | 2 | 47,500
+- **Assassin Knife Edge** | 60 | 3,000
+- **Assault Boots Part** | 60 | 896
+- **Atuba Hammer Head** | 60 | 12,094
+- **Avada Mac Head** | 60 | 12,094
+- **Avada Boots Design** | 60 | 1,922
+- **Avadan Breastplate Part** | 60 | 5,525
+- **Avadan Circlet Pattern** | 60 | 2,227
+- **Avadan Gaiters Material** | 60 | 3,575
+- **Avadan Gloves Part** | 60 | 1,922
+- **Avadan Leather Mail Lining** | 60 | 5,521
+- **Avadan Robe Fabric** | 60 | 5,521
+- **Battle Axe Head** | 60 | 13,400
+- **Bec De Corbin Blade** | 60 | 15,834
+- **Bellion Cestus Edge** | 60 | 22,885
+- **Bich’Hwa Edge** | 60 | 9,879
+- **Big Hammer Head** | 60 | 13,400
+- **Blacksmith’s Frame** | 2 | 32,000
+- **Blessed Branch Splinter** | 60 | 21,909
+- **Blessed Gloves Pattern** | 60 | 1,837
+- **Blood Helm Design** | 60 | 2,891
+- **Blue Crystal Skull Part** | 60 | 10,893
+- **Blue Diamond Necklace Gem** | 60 | 707
+- **Blue Wolf Boots Design** | 60 | 2,228
+- **Blue Wolf Breastplate Part** | 60 | 6,846
+- **Blue Wolf Gaiters Material** | 60 | 4,862
+- **Blue Wolf Gloves Fabric** | 60 | 2,228
+- **Blue Wolf Helmet Design** | 60 | 2,646
+- **Blue Wolf Leather Mail Texture** | 60 | 8,850
+- **Blue Wolf Stockings Pattern** | 60 | 4,262
+- **Blue Wolf Tunic Fabric** | 60 | 5,375
+- **Body Slasher Fabric** | 60 | 11,375
+- **Bone Helmet Design** | 60 | 630
+- **Bonebreaker Head** | 60 | 12,094
+- **Boots of Blessing Design** | 60 | 1,922
+- **Boots of Grace Lining** | 60 | 2,228
+- **Boots of Power Pattern** | 60 | 740
+- **Boots of Seal Pattern** | 60 | 1,113
+- **Bow Shaft** | 60 | 1,400
+- **Braided Hemp** | 2 | 250
+- **Brandish Blade** | 60 | 2,570
+- **Brigandine Boots Design** | 60 | 740
+- **Brigandine Gaiters Material** | 60 | 1,686
+- **Brigandine Gauntlets Pattern** | 60 | 740
+- **Brigandine Helmet Design** | 60 | 2,597
+
+### Column 2
+
+- **Brigandine Shield Fragment** | 60 | 695
+- **Brigandine Temper** | 60 | 2,515
+- **Broadsword Blade** | 60 | 1,400
+- **Caliburs Edge** | 60 | 18,725
+- **Candle of Wisdom Model** | 60 | 21,891
+- **Cap of Mana Pattern** | 60 | 2,891
+- **Cedar Staff Head** | 60 | 2,570
+- **Cerberus Eye Fragment** | 60 | 21,909
+- **Chain Gaiters Part** | 60 | 1,825
+- **Chain Gloves Design** | 60 | 1,113
+- **Chain Helmet Design** | 60 | 1,241
+- **Chain Mail Pattern** | 60 | 1,363
+- **Chain Hood Material** | 60 | 3,763
+- **Chain Shield Fragment** | 60 | 1,238
+- **Chakram Edge** | 60 | 13,400
+- **Charcoal** | 2 | 100
+- **Claws of Black Dragon Piece** | 60 | 21,909
+- **Claymore Blade** | 60 | 11,375
+- **Club of Nature Head** | 60 | 17,950
+- **Coal** | 2 | 100
+- **Coal Bone Powder** | 2 | 750
+- **Cokes** | 2 | 600
+- **Composite Armor Temper** | 60 | 6,760
+- **Composite Boots Part** | 60 | 1,700
+- **Composite Helmet Design** | 60 | 2,280
+- **Composite Shield Fragment** | 60 | 1,560
+- **Composition Bow Shaft** | 60 | 8,534
+- **Compound Braid** | 2 | 1,500
+- **Conjuror’s Staff Head** | 60 | 8,070
+- **Cord** | 2 | 163
+- **Crafted Leather** | 2 | 2,850
+- **Craftsman Mold** | 2 | 355,000
+- **Crimson Boot Fabric** | 60 | 1,189
+- **Crossbow Shaft** | 60 | 13,095
+- **Crucifix of Blood Piece** | 60 | 10,822
+- **Crystal Dagger Blade** | 60 | 21,568
+- **Crystal Staff Head** | 60 | 13,500
+- **Crystallized Ice Bow Shaft** | 60 | 13,269
+- **Cursed Bone** | 3 | 120
+- **Cursed Dagger Blade** | 60 | 12,213
+- **Cursed Maingauche Edge** | 60 | 9,465
+- **Cursed Staff Head** | 60 | 15,456
+- **Dark Elven Dagger Edge** | 60 | 12,213
+- **Dark Elven Long Bow Shaft** | 60 | 17,663
+- **Dark Screamer Edge** | 60 | 18,725
+- **Darksting Stone** | 60 | 850
+- **Deadman’s Glory Stone** | 60 | 22,885
+- **Deadman’s Staff Head** | 60 | 21,909
+- **Demon Fangs Part** | 60 | 10,893
+- **Demon’s Boots Fabric** | 60 | 1,700
+- **Demon’s Gloves Fabric** | 60 | 1,700
+- **Demon’s Staff Head** | 60 | 21,909
+- **Demon’s Stocking Pattern** | 60 | 2,350
+- **Demon’s Sword Edge** | 60 | 22,846
+- **Demon’s Tunic Fabric** | 60 | 4,120
+- **Dirk Blade** | 60 | 2,820
+- **Divine Boots Fabric** | 60 | 1,837
+- **Divine Gloves Design** | 60 | 1,837
+- **Divine Tunic Fabric** | 60 | 5,205
+- **Doom Boots Part** | 60 | 2,228
+- **Doom Helmet Pattern** | 60 | 2,246
+- **Doom Glove Pattern** | 60 | 2,246
+- **Doom Plate Armor Temper** | 60 | 10,146
+- **Doom Shield Fragment** | 60 | 2,223
+- **Drake Leather Gloves Design** | 60 | 1,837
+- **Drake Leather Boots Design** | 60 | 1,837
+- **Drake Leather Mail Texture** | 60 | 6,555
+- **Dwarven Chain Boots Part** | 60 | 1,113
+
+### Column 3
+
+- **Dwarven Chain Gaiters Material** | 60 | 2,617
+- **Dwarven Chain Gloves Design** | 60 | 1,189
+- **Dwarven Chain Mail Shirt Material** | 60 | 4,150
+- **Dwarven Chain Shield Fragment** | 60 | 1,400
+- **Dwarven Tridammer Edge** | 60 | 7,034
+- **Earing of Black Ore Piece** | 60 | 2,825
+- **Earring of Binding Gemstone** | 60 | 1,780
+- **Earrake of Protection Gemstone** | 60 | 1,238
+- **Eldrake Temper** | 60 | 1,438
+- **Elemental Boots Lining** | 60 | 2,228
+- **Elemental Gloves Lining** | 60 | 2,228
+- **Elemental Hood Material** | 60 | 2,228
+- **Elven Bow of Nobility Shaft** | 60 | 13,095
+- **Elven Bow Shaft** | 60 | 7,020
+- **Elven Earring Beads** | 60 | 987
+- **Elven Long Sword Blade** | 60 | 11,532
+- **Elven Mithril Boots Design** | 60 | 740
+- **Elven Mithril Gloves Design** | 60 | 740
+- **Elven Mithril Stockings Pattern** | 60 | 1,259
+- **Elven Mithril Tunic Pattern** | 60 | 1,061
+- **Elven Necklace Beads** | 60 | 1,072
+- **Elven Ring Piece** | 60 | 600
+- **Eminence Bow Shaft** | 60 | 23,609
+- **Enchanted Necklace Chain** | 2 | 6,000
+- **Enria Leather Gloves Lining** | 60 | 765
+- **Eye of Infinity Stone** | 60 | 10,822
+- **Fist Blade Piece** | 60 | 18,500
+- **Flamberge Blade** | 60 | 12,063
+- **Flame Helm Design** | 60 | 2,891
+- **Forest Bow Shaft** | 60 | 4,634
+- **Forgotten Boots Pattern** | 60 | 1,700
+- **Full Plate Armor Temper** | 60 | 9,464
+- **Full Plate Boots Part** | 60 | 1,837
+- **Full Plate Gauntlets Part** | 60 | 1,837
+- **Full Plate Helmet Design** | 60 | 2,891
+- **Full Plate Shield Fragment** | 60 | 1,828
+- **Gastraphetes Shaft** | 60 | 8,384
+- **Gauntlets of Ghost Pattern** | 60 | 1,837
+- **Gemstone A** | 2 | 15,000
+- **Gemstone B** | 2 | 5,000
+- **Gemstone C** | 2 | 1,500
+- **Gemstone D** | 2 | 500
+- **Gemstone S** | 2 | 50,000
+- **Ghost Staff Head** | 60 | 11,406
+- **Ghoul’s Staff Head** | 60 | 21,909
+- **Glaive Edge** | 60 | 12,094
+- **Gloves of Blessing Pattern** | 60 | 1,922
+- **Gloves of Grace Lining** | 60 | 2,228
+- **Gloves of Seal Pattern** | 60 | 1,189
+- **Goat Head Staff Head** | 60 | 10,822
+- **Grace Dagger Edge** | 60 | 18,725
+- **Great Axe Head** | 60 | 19,434
+- **Great Pata Blade** | 60 | 2,634
+- **Great Sword Blade** | 60 | 17,475
+- **Guardian’s Boots Fabric** | 60 | 1,922
+- **Guardian’s Gloves Design** | 60 | 1,821
+- **Half Plate Temper** | 60 | 3,021
+- **Hammer in Flames Head** | 60 | 8,965
+- **Hard Leather Gaiters Material** | 60 | 775
+- **Hazard Bow Pattern** | 60 | 1,254
+- **Hazard Leather Shaft** | 60 | 22,962
+- **Heathen’s Book Page** | 60 | 17,950
+- **Heavy Bone Club Head** | 60 | 9,879
+- **Heavy Doom Axe Blade** | 60 | 11,375
+- **Heavy Doom Hammer Head** | 60 | 11,375
+- **Heavy War Axe Head** | 60 | 17,475
+- **Hell Knife Edge** | 60 | 17,750
