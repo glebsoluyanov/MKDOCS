@@ -13,9 +13,11 @@ Artisans, as the name implies, are the crafters of Aden. While many items can be
 - At Level 28, the Artisan gets a new skill, Summon Mechanical Golem. As the name implies, this skill summons up a pet (who oddly enough looks a lot like R2-D2) for the mere cost of a few D-grade crystals. Your advantage over other summoners is that you can make your own crystals instead of having to buy them. The disadvantage is that you don’t get the summoner buffs/heals.
 - For crafting tips, see **Collecting & Crafting**, p. 119.
 
----
+![1.jpg](../../assets/images/119/1.png){width=380 align=right}
 
-## HP / MP BY LEVEL
+### HP / MP BY LEVEL
+
+<div class="noborder-table compact-table" markdown>
 
 | LEVEL | HP   | MP  |
 |-------|------|-----|
@@ -29,11 +31,6 @@ Artisans, as the name implies, are the crafters of Aden. While many items can be
 | 28    | 1059 | 309 |
 | 29    | 1116 | 323 |
 | 30    | 1175 | 337 |
-
----
-
-| LEVEL | HP   | MP  |
-|-------|------|-----|
 | 31    | 1234 | 352 |
 | 32    | 1293 | 366 |
 | 33    | 1353 | 380 |
@@ -44,6 +41,4 @@ Artisans, as the name implies, are the crafters of Aden. While many items can be
 | 38    | 1659 | 455 |
 | 39    | 1722 | 470 |
 
---- 
-
-**Page 117**
+</div>

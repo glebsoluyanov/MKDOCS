@@ -15,8 +15,7 @@ There are very few differences between Bounty Hunters and War-smiths. Bounty Hun
 Bounty Hunters are high-level Scavengers. They continue to progress to higher levels of Spoil and other masteries, but are identical in play style and role in a party or clan.
 
 - This is where things really pick up for you. Many C-grade and higher recipes, as well as many other items, can only be obtained with Spoil. For other things like enchantment scrolls, often you will spoil them about ten times more often then they would drop otherwise (which still makes them rare, but at least gives you a better shot at them).
-- Fake Death allows you to fall over and play dead until the monster wonders off or you run out of MP. This is a lifesaver, but be  
-**aware that monsters will then immediately turn on the rest of your party.**
+- Fake Death allows you to fall over and play dead until the monster wonders off or you run out of MP. This is a lifesaver, but be aware that monsters will then immediately turn on the rest of your party.
 
 ---
 
@@ -36,7 +35,7 @@ There are few differences between Artisans and War-smiths. The two classes are p
 
 ### HP / MP BY LEVEL  
 
-| LEVEL | BH HP | WS HP | MP  |
+| LEVEL | BH HP| WS HP| MP  |
 |-------|------|------|-----|
 | 41    | 1892 | 1810 | 495 |
 | 42    | 1985 | 1899 | 521 |
