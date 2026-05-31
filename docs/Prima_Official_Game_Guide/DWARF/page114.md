@@ -1,3 +1,4 @@
+![l2_top.png](../../assets/images/l2_top.png)
 # 112 ABANDONED COAL MINES (DUNG.)
 ## ABANDONED COAL MINES (DWARVEN DUNGEON)
 

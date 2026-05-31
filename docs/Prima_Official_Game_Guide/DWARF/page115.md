@@ -1,3 +1,4 @@
+![l2_top2.png](../../assets/images/l2_top2.png)
 # 113 MITHRIL MINES (DUNGEON)
 ## MITHRIL MINES (DWARVEN DUNGEON)
 

@@ -1,3 +1,4 @@
+![l2_top.png](../../assets/images/l2_top.png)
 # 110 DWARVEN VILLAGE
 ## DWARVEN VILLAGE
 

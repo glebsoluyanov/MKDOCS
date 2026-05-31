@@ -1,3 +1,4 @@
+![l2_top.png](../../assets/images/l2_top.png)
 # 118 BOUNTY HUNTER/WARSMITH
 ## BOUNTY HUNTER (← SCAVENGER ← DWARVEN FIGHTER)  
 

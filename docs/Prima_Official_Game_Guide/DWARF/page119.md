@@ -1,3 +1,4 @@
+![l2_top2.png](../../assets/images/l2_top2.png)
 # 117 ARTISAN
 ## ARTISAN (← DWARVEN FIGHTER)
 

@@ -1,3 +1,4 @@
+![l2_top.png](../../assets/images/l2_top.png)
 # 114 DWARVEN FIGHTER
 ## DWARVEN FIGHTER
 
