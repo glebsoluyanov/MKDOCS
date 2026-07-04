@@ -10,6 +10,14 @@
     width: auto
 }
 
+.md-typeset {
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+    font-size: .7rem;
+    line-height: 1.6;
+    overflow-wrap: break-word
+}
+
 .md-typeset h1 {
   margin: 0 0 0.25em;
 }
@@ -26,6 +34,7 @@
 }
 .compact-table td {
   padding: 0.2rem !important;
+  font-size: 0.56rem;
 }
 
 .noborder-table table{
