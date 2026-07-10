@@ -9,7 +9,7 @@
 
 | Ранг B | Цена | Ранг A | Цена |
 | --- | --- | --- | --- |
-| Большой Меч , Тяжелый Топор Войны , Посох Духа , Кешанберк , Меч Вальхаллы , Крис , Нож Ада , Коготь Артро , Длинный Лук Темных Эльфов , Двуручный Топор , Рассеиватель Заклинания , Молот Ледяной Бури , Боевая Рапира , Безымянная Победа , Миротворец | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 6,680,500 аден | Душегуб , Легендарный Меч , Темный Легион , Протыкатель , Убийца Драконов , Гробовщик , Пронзатель Душ , Жнец , Пылающий Череп Дракона , Элизиум , Крушитель Рока , Ветвь Древа Жизни , Глефа Таллума , Погибель Дракона | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 20,741,000 аден |
+| Большой Меч , Тяжелый Топор Войны , Посох Духа , Кешанберк , Меч Вальхаллы , Крис , Нож Ада , Коготь Артро , Длинный Лук Темных Эльфов , Двуручный Топор , Рассеиватель Заклинания , Молот Ледяной Бури , Боевая Рапира , Безымянная Победа , Миротворец | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 6,680,500 аден | Душегуб , Легендарный Меч , Темный Легион , Протыкатель , Убийца Драконов , Гробовщик , Пронзатель Душ , Жнец , Пылающий Череп Дракона , Элизиум , Крушитель Рока , Ветвь Древа Жизни , Глефа Таллума , Погибель Дракона | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 20,741,000 аден |
 
 </div>
 
@@ -20,24 +20,24 @@
 | Ранг В<br>Название | <br>Цена | Название<br>Ранг А | <br>Цена |
 | --- | --- | --- | --- |
 |  |  |  |  |
-| Кираса Зубея | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,596,000 аден | Кираса Кристалла Тьмы | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 3,562,000 аден |
-| Набедренники Зубея | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 997,700 аден | Набедренники Кристалла Тьмы | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 2,226,000 аден |
-| Кожаная Рубаха Зубея | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,197,000 аден | Кожаный Доспех Кристалла Тьмы | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 2,671,000 аден |
-| Кожаные Набедренники Зубея | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 748,300 аден | Поножи Кристалла Тьмы | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,670,000 аден |
-| Туника Зубея | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,197,000 аден | Мантия Кристалла Тьмы | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 4,341,000 аден |
-| Штаны Зубея | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 748,300 аден | Шлем Кристалла Тьмы | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,336,000 аден |
-| Шлем Зубея | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 598,600 аден | Запечатанные Перчатки Кристалла Тьмы | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 890,000 аден |
-| Запечатанные Рукавицы Зубея | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 399,100 аден | Запечатанные Сапоги Кристалла Тьмы | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 890,000 аден |
-| Запечатанные Сапоги Зубея | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 399,100 аден | Щит Кристалла Тьмы | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 935,000 аден |
-| Щит Зубея | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 419,000 аден | Латный Доспех Таллума | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 5,788,000 аден |
-| Кираса Авадона | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,596,000 аден | Кожаный Доспех Таллума | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 4,341,000 аден |
-| Набедренники Авадона | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 997,700 аден | Туника Таллума | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 2,671,000 аден |
-| Кожаный Доспех Авадона | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,946,000 аден | Штаны Таллума | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,670,000 аден |
-| Мантия Авадона | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,946,000 аден | Шлем Таллума | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,336,000 аден |
-| Диадема Авадона | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 598,600 аден | Запечатанные Перчатки Таллума | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 890,000 аден |
-| Запечатанные Перчатки Авадона | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 399,100 аден | Запечатанные Сапоги Таллума | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 890,000 аден |
-| Запечатанные Сапоги Авадона | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 399,100 аден |
-| Щит Авадона | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 419,000 аден |
+| Кираса Зубея | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,596,000 аден | Кираса Кристалла Тьмы | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 3,562,000 аден |
+| Набедренники Зубея | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 997,700 аден | Набедренники Кристалла Тьмы | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 2,226,000 аден |
+| Кожаная Рубаха Зубея | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,197,000 аден | Кожаный Доспех Кристалла Тьмы | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 2,671,000 аден |
+| Кожаные Набедренники Зубея | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 748,300 аден | Поножи Кристалла Тьмы | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,670,000 аден |
+| Туника Зубея | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,197,000 аден | Мантия Кристалла Тьмы | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 4,341,000 аден |
+| Штаны Зубея | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 748,300 аден | Шлем Кристалла Тьмы | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,336,000 аден |
+| Шлем Зубея | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 598,600 аден | Запечатанные Перчатки Кристалла Тьмы | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 890,000 аден |
+| Запечатанные Рукавицы Зубея | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 399,100 аден | Запечатанные Сапоги Кристалла Тьмы | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 890,000 аден |
+| Запечатанные Сапоги Зубея | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 399,100 аден | Щит Кристалла Тьмы | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 935,000 аден |
+| Щит Зубея | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 419,000 аден | Латный Доспех Таллума | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 5,788,000 аден |
+| Кираса Авадона | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,596,000 аден | Кожаный Доспех Таллума | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 4,341,000 аден |
+| Набедренники Авадона | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 997,700 аден | Туника Таллума | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 2,671,000 аден |
+| Кожаный Доспех Авадона | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,946,000 аден | Штаны Таллума | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,670,000 аден |
+| Мантия Авадона | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,946,000 аден | Шлем Таллума | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,336,000 аден |
+| Диадема Авадона | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 598,600 аден | Запечатанные Перчатки Таллума | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 890,000 аден |
+| Запечатанные Перчатки Авадона | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 399,100 аден | Запечатанные Сапоги Таллума | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 890,000 аден |
+| Запечатанные Сапоги Авадона | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 399,100 аден |
+| Щит Авадона | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 419,000 аден |
 
 </div>
 
@@ -67,35 +67,35 @@
 ::spantable::
 | Уровень рецепта | Название | Базовая цена |
 | --- | --- | --- |
-| 1 уровень @span=1:1 | Рецепт - Кожа | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 416 аден |
-| | Рецепт - Плетеный Лен | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 748 аден |
-| | Рецепт - Кокс | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 748 аден |
-| | Рецепт - Сталь | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 748 аден |
-| | Рецепт - Грубый Костный Порошок | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 748 аден |
-| 2 уровень @span=1:1 | Рецепт - Веревка | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,100 аден |
-| | Рецепт - Стальная Заготовка | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,100 аден |
-| | Рецепт - Качественная Замша | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,100 аден |
-| | Рецепт - Серебряная Заготовка | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,100 аден |
-| | Рецепт - Очищенный Лак | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,100 аден |
-| | Рецепт - Синтетический Кокс | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,100 аден |
-| | Рецепт - Прочный Шнурок | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 1,100 аден |
-| 4 уровень @span=1:1 | Рецепт - Орихарукон | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 3,080 аден |
-| | Рецепт - Мифриловый Сплав | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 3,080 аден |
-| | Рецепт - Заготовка Ремесленника | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 3,080 аден |
-| | Рецепт - Заготовка Кузнеца | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 3,080 аден |
-| | Рецепт - Выделанная Кожа | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 3,080 аден |
-| | Рецепт - Металлическое Волокно | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 3,080 аден |
-| | Рецепт - Отвердитель Металла (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 3,080 аден |
-| | Рецепт - Металлическая Нить (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 3,080 аден |
-| | Рецепт - Прочный Лист Стали (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 3,080 аден |
-| 5 уровень | Рецепт - Заготовка Реорина (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 5,280 аден |
-| 6 уровень @span=1:1 | Рецепт - Тиски Мастера (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 4,950 аден |
-| | Рецепт - Замок Мастера (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 4,950 аден |
-| | Рецепт - Заготовка Работника (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 4,950 аден |
-| | Рецепт - Заготовка Мастера (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 4,950 аден |
-| | Рецепт - Заготовка Оружейника (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 8,470 аден |
-| | Рецепт - Наковальня Кузнеца (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 11,660 аден |
-| | Рецепт - Тиски Кузнеца (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 19,470 аден |
+| 1 уровень @span=1:1 | Рецепт - Кожа | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 416 аден |
+| | Рецепт - Плетеный Лен | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 748 аден |
+| | Рецепт - Кокс | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 748 аден |
+| | Рецепт - Сталь | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 748 аден |
+| | Рецепт - Грубый Костный Порошок | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 748 аден |
+| 2 уровень @span=1:1 | Рецепт - Веревка | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,100 аден |
+| | Рецепт - Стальная Заготовка | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,100 аден |
+| | Рецепт - Качественная Замша | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,100 аден |
+| | Рецепт - Серебряная Заготовка | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,100 аден |
+| | Рецепт - Очищенный Лак | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,100 аден |
+| | Рецепт - Синтетический Кокс | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,100 аден |
+| | Рецепт - Прочный Шнурок | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 1,100 аден |
+| 4 уровень @span=1:1 | Рецепт - Орихарукон | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 3,080 аден |
+| | Рецепт - Мифриловый Сплав | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 3,080 аден |
+| | Рецепт - Заготовка Ремесленника | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 3,080 аден |
+| | Рецепт - Заготовка Кузнеца | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 3,080 аден |
+| | Рецепт - Выделанная Кожа | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 3,080 аден |
+| | Рецепт - Металлическое Волокно | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 3,080 аден |
+| | Рецепт - Отвердитель Металла (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 3,080 аден |
+| | Рецепт - Металлическая Нить (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 3,080 аден |
+| | Рецепт - Прочный Лист Стали (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 3,080 аден |
+| 5 уровень | Рецепт - Заготовка Реорина (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 5,280 аден |
+| 6 уровень @span=1:1 | Рецепт - Тиски Мастера (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 4,950 аден |
+| | Рецепт - Замок Мастера (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 4,950 аден |
+| | Рецепт - Заготовка Работника (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 4,950 аден |
+| | Рецепт - Заготовка Мастера (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 4,950 аден |
+| | Рецепт - Заготовка Оружейника (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 8,470 аден |
+| | Рецепт - Наковальня Кузнеца (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 11,660 аден |
+| | Рецепт - Тиски Кузнеца (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 19,470 аден |
 ::end-spantable::
 
 </div>
@@ -107,42 +107,42 @@
 ::spantable::
 | Уровень рецепта | Название | Базовая цена |
 | --- | --- | --- |
-| 2 уровень @span=1:1 | Рецепт - Заряд Души: Ранг D | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 5,500 аден |
-| | Рецепт - Заряд Духа: Ранг D | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 5,500 аден |
-| | Рецепт - Благословенный Заряд Духа: Ранг D | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 5,500 аден |
-| | Рецепт - Компактная Упаковка: Заряды Души Ранг D (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 5,500 аден |
+| 2 уровень @span=1:1 | Рецепт - Заряд Души: Ранг D | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 5,500 аден |
+| | Рецепт - Заряд Духа: Ранг D | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 5,500 аден |
+| | Рецепт - Благословенный Заряд Духа: Ранг D | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 5,500 аден |
+| | Рецепт - Компактная Упаковка: Заряды Души Ранг D (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 5,500 аден |
 | | Рецепт - Компактная Упаковка: Заряды Духа Ранг D (100%) |  |
-| | Рецепт - Компактная Упаковка: Благословенные Заряды Духа Ранг D (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 5,500 аден |
-| | Рецепт - Суперкомпактная Упаковка: Заряды Души Ранг D (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 5,500 аден |
-| | Рецепт - Суперкомпактная Упаковка: Заряды Духа Ранг D (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 5,500 аден |
-| | Рецепт - Суперкомпактная Упаковка: Благословенные Заряды Духа Ранг D (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 5,500 аден |
-| 4 уровень @span=1:1 | Рецепт - Заряд Души: Ранг C | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 66,000 аден |
-| | Рецепт - Заряд Духа: Ранг C | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 66,000 аден |
-| | Рецепт - Благословенный Заряд Духа: Ранг C | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 66,000 аден |
-| | Рецепт - Компактная Упаковка: Заряды Души Ранг C (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 66,000 аден |
-| | Рецепт - Компактная Упаковка: Заряды Духа Ранг C (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 66,000 аден |
-| | Рецепт - Компактная Упаковка: Благословенные Заряды Духа Ранг D (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 66,000 аден |
-| | Рецепт - Суперкомпактная Упаковка: Заряды Души Ранг C (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 66,000 аден |
-| | Рецепт - Суперкомпактная Упаковка: Заряды Духа Ранг C (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 66,000 аден |
-| | Рецепт - Суперкомпактная Упаковка: Благословенные Заряды Духа Ранг C (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 66,000 аден |
-| 6 уровень @span=1:1 | Рецепт - Заряд Души: Ранг B | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 110,000 аден |
-| | Рецепт - Заряд Духа: Ранг B | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 110,000 аден |
-| | Рецепт - Благословенный Заряд Духа: Ранг B | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 110,000 аден |
-| | Рецепт - Компактная Упаковка: Заряды Души Ранг B (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 110,000 аден |
-| | Рецепт - Компактная Упаковка: Заряды Духа Ранг B (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 110,000 аден |
-| | Рецепт - Компактная Упаковка: Благословенные Заряды Духа Ранг B (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 110,000 аден |
-| | Рецепт - Суперкомпактная Упаковка: Заряды Души Ранг B (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 110,000 аден |
-| | Рецепт - Суперкомпактная Упаковка: Заряды Духа Ранг B (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 110,000 аден |
-| | Рецепт - Суперкомпактная Упаковка: Благословенные Заряды Духа Ранг B (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 110,000 аден |
-| 7 уровень @span=1:1 | Рецепт - Заряд Души: Ранг A | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 165,000 аден |
-| | Рецепт - Заряд Духа: Ранг A | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 165,000 аден |
-| | Рецепт - Благословенный Заряд Духа: Ранг A | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 165,000 аден |
-| | Рецепт - Компактная Упаковка: Заряды Души Ранг A (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 165,000 аден |
-| | Рецепт - Компактная Упаковка: Заряды Духа Ранг A (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 165,000 аден |
-| | Рецепт - Компактная Упаковка: Благословенные Заряды Духа Ранг D (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 165,000 аден |
-| | Рецепт - Суперкомпактная Упаковка: Заряды Души Ранг A (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 165,000 аден |
-| | Рецепт - Суперкомпактная Упаковка: Заряды Духа Ранг A (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 165,000 аден |
-| | Рецепт - Суперкомпактная Упаковка: Благословенные Заряды Духа Ранг A (100%) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Адена.jpg) 165,000 аден |
+| | Рецепт - Компактная Упаковка: Благословенные Заряды Духа Ранг D (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 5,500 аден |
+| | Рецепт - Суперкомпактная Упаковка: Заряды Души Ранг D (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 5,500 аден |
+| | Рецепт - Суперкомпактная Упаковка: Заряды Духа Ранг D (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 5,500 аден |
+| | Рецепт - Суперкомпактная Упаковка: Благословенные Заряды Духа Ранг D (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 5,500 аден |
+| 4 уровень @span=1:1 | Рецепт - Заряд Души: Ранг C | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 66,000 аден |
+| | Рецепт - Заряд Духа: Ранг C | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 66,000 аден |
+| | Рецепт - Благословенный Заряд Духа: Ранг C | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 66,000 аден |
+| | Рецепт - Компактная Упаковка: Заряды Души Ранг C (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 66,000 аден |
+| | Рецепт - Компактная Упаковка: Заряды Духа Ранг C (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 66,000 аден |
+| | Рецепт - Компактная Упаковка: Благословенные Заряды Духа Ранг D (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 66,000 аден |
+| | Рецепт - Суперкомпактная Упаковка: Заряды Души Ранг C (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 66,000 аден |
+| | Рецепт - Суперкомпактная Упаковка: Заряды Духа Ранг C (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 66,000 аден |
+| | Рецепт - Суперкомпактная Упаковка: Благословенные Заряды Духа Ранг C (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 66,000 аден |
+| 6 уровень @span=1:1 | Рецепт - Заряд Души: Ранг B | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 110,000 аден |
+| | Рецепт - Заряд Духа: Ранг B | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 110,000 аден |
+| | Рецепт - Благословенный Заряд Духа: Ранг B | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 110,000 аден |
+| | Рецепт - Компактная Упаковка: Заряды Души Ранг B (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 110,000 аден |
+| | Рецепт - Компактная Упаковка: Заряды Духа Ранг B (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 110,000 аден |
+| | Рецепт - Компактная Упаковка: Благословенные Заряды Духа Ранг B (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 110,000 аден |
+| | Рецепт - Суперкомпактная Упаковка: Заряды Души Ранг B (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 110,000 аден |
+| | Рецепт - Суперкомпактная Упаковка: Заряды Духа Ранг B (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 110,000 аден |
+| | Рецепт - Суперкомпактная Упаковка: Благословенные Заряды Духа Ранг B (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 110,000 аден |
+| 7 уровень @span=1:1 | Рецепт - Заряд Души: Ранг A | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 165,000 аден |
+| | Рецепт - Заряд Духа: Ранг A | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 165,000 аден |
+| | Рецепт - Благословенный Заряд Духа: Ранг A | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 165,000 аден |
+| | Рецепт - Компактная Упаковка: Заряды Души Ранг A (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 165,000 аден |
+| | Рецепт - Компактная Упаковка: Заряды Духа Ранг A (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 165,000 аден |
+| | Рецепт - Компактная Упаковка: Благословенные Заряды Духа Ранг D (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 165,000 аден |
+| | Рецепт - Суперкомпактная Упаковка: Заряды Души Ранг A (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 165,000 аден |
+| | Рецепт - Суперкомпактная Упаковка: Заряды Духа Ранг A (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 165,000 аден |
+| | Рецепт - Суперкомпактная Упаковка: Благословенные Заряды Духа Ранг A (100%) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Адена.jpg) 165,000 аден |
 ::end-spantable::
 
 </div>
@@ -154,7 +154,7 @@
 **Когда можно покупать**: с 20.00 до 24.00 ежедневно   
 **Условия для покупки**: Персонаж должен быть 61 уровня и выше   
 - Древнюю Адену можно приобрести за Адену по курсу 1 к 4   
-- Максимальное количество Древней Адены, которое можно приобрести за 1 день - ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Древняя_Адена.jpg) 500,000 Древних Аден 
+- Максимальное количество Древней Адены, которое можно приобрести за 1 день - ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Древняя_Адена.jpg) 500,000 Древних Аден 
 
 ## Другие изменения в предметах
 
@@ -179,19 +179,19 @@
 
 |  | Предмет | Описание |
 | --- | --- | --- |
-| ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_3949.jpg) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Ранг_NG.gif) **Благословенный Заряд Духа: Ранг C** <br> (Blessed Spiritshot (C-Grade)) | Капсула, в которой заключена сила древнего духа. Значительно увеличивает Маг. Атк. Используется с оружием Ранга C. |
-| ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_3948.jpg) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Ранг_NG.gif) **Благословенный Заряд Духа: Ранг D** <br> (Blessed Spiritshot (D-Grade)) | Капсула, в которой заключена сила древнего духа. Значительно увеличивает Маг. Атк. Используется с оружием Ранга D. |
-| ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_1464.jpg) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Ранг_NG.gif) **Заряд Души: Ранг C** <br> (Soulshot (C-Grade)) | Капсула, в которой заключена сила древнего духа. Придает оружию дополнительную силу. Используется с оружием Ранга C. |
-| ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_1463.jpg) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Ранг_NG.gif) **Заряд Души: Ранг D** <br> (Soulshot (D-Grade)) | Капсула, в которой заключена сила древнего духа. Придает оружию дополнительную силу. Используется с оружием Ранга D. |
-| ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_2132.jpg) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Ранг_NG.gif) **Самоцвет: Ранг B** <br> (Gemstone B) |  |
-| ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_2131.jpg) | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Ранг_NG.gif) **Самоцвет: Ранг C** <br> (Gemstone C) |  |
+| ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_3949.jpg) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Ранг_NG.gif) **Благословенный Заряд Духа: Ранг C** <br> (Blessed Spiritshot (C-Grade)) | Капсула, в которой заключена сила древнего духа. Значительно увеличивает Маг. Атк. Используется с оружием Ранга C. |
+| ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_3948.jpg) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Ранг_NG.gif) **Благословенный Заряд Духа: Ранг D** <br> (Blessed Spiritshot (D-Grade)) | Капсула, в которой заключена сила древнего духа. Значительно увеличивает Маг. Атк. Используется с оружием Ранга D. |
+| ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_1464.jpg) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Ранг_NG.gif) **Заряд Души: Ранг C** <br> (Soulshot (C-Grade)) | Капсула, в которой заключена сила древнего духа. Придает оружию дополнительную силу. Используется с оружием Ранга C. |
+| ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_1463.jpg) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Ранг_NG.gif) **Заряд Души: Ранг D** <br> (Soulshot (D-Grade)) | Капсула, в которой заключена сила древнего духа. Придает оружию дополнительную силу. Используется с оружием Ранга D. |
+| ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_2132.jpg) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Ранг_NG.gif) **Самоцвет: Ранг B** <br> (Gemstone B) |  |
+| ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_2131.jpg) | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Ранг_NG.gif) **Самоцвет: Ранг C** <br> (Gemstone C) |  |
 
 </div>
 
-- ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_13740.jpg) Ожерелье Хранителя Глудио: Вода в описание предмета добавлена фраза о защите от Воды.
+- ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_13740.jpg) Ожерелье Хранителя Глудио: Вода в описание предмета добавлена фраза о защите от Воды.
 - Описание предметов, уменьшающих поглощение MP изменено соответственно их эффекту.
-- В описание предметов ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Перчатки_Венеры.jpg) Перчатки Венеры и ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Красивые_Перчатки_Венеры.jpg) Красивые Перчатки Венеры в описание предметов добавлена защита от оглушения.
-- Эффект предмета ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/NoImage.jpg) Ивент - Парное Молоко больше не заменяется положительными эффектами слуг и питомцев.
+- В описание предметов ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Перчатки_Венеры.jpg) Перчатки Венеры и ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Красивые_Перчатки_Венеры.jpg) Красивые Перчатки Венеры в описание предметов добавлена защита от оглушения.
+- Эффект предмета ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/NoImage.jpg) Ивент - Парное Молоко больше не заменяется положительными эффектами слуг и питомцев.
 - Исправлена проблема с отсутствием анимации умений для расы Камаэль при ношении Брони Венеры.
 - Торговец Маммона теперь не продает Кристаллы A и S ранга.
 - Для людей женщин мистиков исправлена проблема с отображением перчаток когда в руках мили оружие +7.

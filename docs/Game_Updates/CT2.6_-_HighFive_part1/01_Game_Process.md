@@ -28,10 +28,10 @@
     - Групповые соревнования - 30 боев
 - Максимальное количество зрителей для 1 стадиона теперь будет ограничиваться 18 людьми.
 - Добавлено 3 новых типа стадионов и измене вид существующего (названия арен могут быть изменены)
-    - Арена Орбиса <br> ![ct25p1](../../assets/images/chronicles/ct2_5p1/Арена_Орбиса_1.jpg) ![ct25p1](../../assets/images/chronicles/ct2_5p1/Арена_Орбиса_2.jpg) <br> ![ct25p1](../../assets/images/chronicles/ct2_5p1/Арена_Орбиса_3.jpg) ![ct25p1](../../assets/images/chronicles/ct2_5p1/Арена_Орбиса_4.jpg)
-    - Арена Трезубец <br> ![ct25p1](../../assets/images/chronicles/ct2_5p1/Арена_Трезубец_1.jpg) ![ct25p1](../../assets/images/chronicles/ct2_5p1/Арена_Трезубец_2.jpg) <br> ![ct25p1](../../assets/images/chronicles/ct2_5p1/Арена_Трезубец_3.jpg) ![ct25p1](../../assets/images/chronicles/ct2_5p1/Арена_Трезубец_4.jpg)
-    - Зал Героев <br> ![ct25p1](../../assets/images/chronicles/ct2_5p1/Зал_Героев_1.jpg) ![ct25p1](../../assets/images/chronicles/ct2_5p1/Зал_Героев_2.jpg) <br> ![ct25p1](../../assets/images/chronicles/ct2_5p1/Зал_Героев_3.jpg) ![ct25p1](../../assets/images/chronicles/ct2_5p1/Зал_Героев_4.jpg)
-    - Олимпийский Стадион <br> ![ct25p1](../../assets/images/chronicles/ct2_5p1/Олимпийский_Стадион_1.jpg) ![ct25p1](../../assets/images/chronicles/ct2_5p1/Олимпийский_Стадион_2.jpg) <br> ![ct25p1](../../assets/images/chronicles/ct2_5p1/Олимпийский_Стадион_3.jpg) ![ct25p1](../../assets/images/chronicles/ct2_5p1/Олимпийский_Стадион_4.jpg)
+    - Арена Орбиса <br> ![ct26p1](../../assets/images/chronicles/ct2_6p1/Арена_Орбиса_1.jpg) ![ct26p1](../../assets/images/chronicles/ct2_6p1/Арена_Орбиса_2.jpg) <br> ![ct26p1](../../assets/images/chronicles/ct2_6p1/Арена_Орбиса_3.jpg) ![ct26p1](../../assets/images/chronicles/ct2_6p1/Арена_Орбиса_4.jpg)
+    - Арена Трезубец <br> ![ct26p1](../../assets/images/chronicles/ct2_6p1/Арена_Трезубец_1.jpg) ![ct26p1](../../assets/images/chronicles/ct2_6p1/Арена_Трезубец_2.jpg) <br> ![ct26p1](../../assets/images/chronicles/ct2_6p1/Арена_Трезубец_3.jpg) ![ct26p1](../../assets/images/chronicles/ct2_6p1/Арена_Трезубец_4.jpg)
+    - Зал Героев <br> ![ct26p1](../../assets/images/chronicles/ct2_6p1/Зал_Героев_1.jpg) ![ct26p1](../../assets/images/chronicles/ct2_6p1/Зал_Героев_2.jpg) <br> ![ct26p1](../../assets/images/chronicles/ct2_6p1/Зал_Героев_3.jpg) ![ct26p1](../../assets/images/chronicles/ct2_6p1/Зал_Героев_4.jpg)
+    - Олимпийский Стадион <br> ![ct26p1](../../assets/images/chronicles/ct2_6p1/Олимпийский_Стадион_1.jpg) ![ct26p1](../../assets/images/chronicles/ct2_6p1/Олимпийский_Стадион_2.jpg) <br> ![ct26p1](../../assets/images/chronicles/ct2_6p1/Олимпийский_Стадион_3.jpg) ![ct26p1](../../assets/images/chronicles/ct2_6p1/Олимпийский_Стадион_4.jpg)
 - Управляющий Олимпиады теперь предлагает игрокам специальные ежедневные олимпийские квесты, сброс возможности взятия квестов происходит в 6.30 утра.
 
 <div class="compact-table noborder-table-b" markdown>
@@ -44,22 +44,22 @@
 
 </div>
 
-- Время действия предметов ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Кольцо_Героя_Олимпиады.jpg) Кольцо Героя Олимпиады , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_13754.jpg) Серьга Героя Олимпиады , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Ожерелье_Героя_Олимпиады.jpg) Ожерелье Героя Олимпиады изменено с 30 до 60 дней.
+- Время действия предметов ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Кольцо_Героя_Олимпиады.jpg) Кольцо Героя Олимпиады , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_13754.jpg) Серьга Героя Олимпиады , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Ожерелье_Героя_Олимпиады.jpg) Ожерелье Героя Олимпиады изменено с 30 до 60 дней.
 - Количество получаемых в награду символов / очков олимпиады, изменено:
 
 <div class="compact-table noborder-table-b" markdown>
 
 | Ранг | Место | Количество очков/символов <br> до обновления | Количество очков/символов <br> после обновления |
 | --- | --- | --- | --- |
-| 1 | Топ 1% | 120 очков ( ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 120000 шт. ) | 100 очков ( ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 100000 шт. ) |
-| 2 | Топ 10% | 80 очков ( ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 80000 шт. ) | 75 очков ( ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 75000 шт. ) |
-| 3 | Топ 25% | 55 очков ( ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 55000 шт. ) | 55 очков ( ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 55000 шт. ) |
-| 4 | Топ 50% | 35 очков ( ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 35000 шт. ) | 40 очков ( ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 40000 шт. ) |
-| 5 | Ниже 50% | 20 очков ( ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 20000 шт. ) | 30 очков ( ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 30000 шт. ) |
+| 1 | Топ 1% | 120 очков ( ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 120000 шт. ) | 100 очков ( ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 100000 шт. ) |
+| 2 | Топ 10% | 80 очков ( ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 80000 шт. ) | 75 очков ( ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 75000 шт. ) |
+| 3 | Топ 25% | 55 очков ( ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 55000 шт. ) | 55 очков ( ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 55000 шт. ) |
+| 4 | Топ 50% | 35 очков ( ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 35000 шт. ) | 40 очков ( ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 40000 шт. ) |
+| 5 | Ниже 50% | 20 очков ( ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 20000 шт. ) | 30 очков ( ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 30000 шт. ) |
 
 </div>
 
-- Награда Героя увеличилась с 180 очков до 200 очков ( ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 200000 шт. )
+- Награда Героя увеличилась с 180 очков до 200 очков ( ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Символ_Олимпиады.jpg) Символ Олимпиады — 200000 шт. )
 - Чтобы получить награду за Олимпиаду необходимо провести минимум 15 боев.
     - Награда на бои внутри класса изменена с 1/3 очков проигравшего на 1/5.
 - Оружие Герое усилено:
@@ -125,19 +125,19 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 20,000 | 650,000 | - | 0 |  | 1 или более |  |
 | 2 | 100,000 | 2,500,000 | - | 0 |  | 1 или более |  |
-| 3 | 350,000 | 0 | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Знак_Крови.jpg) Знак Крови | 0 |  | 1 или более |  |
-| 4 | 1,000,000 | 0 | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Манифест_Альянса.jpg) Манифест Альянса | 0 |  | 1 или более |  |
-| 5 | 2,500,000 | 0 | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Печать_Амбиций.jpg) Печать Амбиций | 0 |  | 1 или более |  |
+| 3 | 350,000 | 0 | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Знак_Крови.jpg) Знак Крови | 0 |  | 1 или более |  |
+| 4 | 1,000,000 | 0 | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Манифест_Альянса.jpg) Манифест Альянса | 0 |  | 1 или более |  |
+| 5 | 2,500,000 | 0 | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Печать_Амбиций.jpg) Печать Амбиций | 0 |  | 1 или более |  |
 | 6 | 0 | 0 | - | 10,000 | 5000 | 30 или более | 30 или более |
 | 7 | 0 | 0 | - | 20,000 | 10,000 | 80 или более | 50 или более |
 | 8 | 0 | 0 | - | 40,000 | 20,000 | 120 или более | 80 или более |
-| 9 | 0 | 0 | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Клятвенная_Кровь.jpg) Клятвенная Кровь — 150 шт. | 40,000 | 40,000 | 120 или более | 120 или более |
-| 10 | 0 | 0 | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Кровь_Альянса.jpg) Кровь Альянса — 5 шт. | 40,000 | 40,000 | 140 или более | 140 или более |
+| 9 | 0 | 0 | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Клятвенная_Кровь.jpg) Клятвенная Кровь — 150 шт. | 40,000 | 40,000 | 120 или более | 120 или более |
+| 10 | 0 | 0 | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Кровь_Альянса.jpg) Кровь Альянса — 5 шт. | 40,000 | 40,000 | 140 или более | 140 или более |
 | 11 | 0 | 0 | Владение Землями | 75,000 | 75,000 | 170 или более | 170 или более |
 
 </div>
 
-- Изменены Зоны Охоты где можно получить ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Знак_Крови.jpg) Знак Крови , для получения 3-го уровня клана
+- Изменены Зоны Охоты где можно получить ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Знак_Крови.jpg) Знак Крови , для получения 3-го уровня клана
 
 <div class="compact-table noborder-table-b" markdown>
 
@@ -158,20 +158,20 @@
 
 | Город | Добавленные предметы |
 | --- | --- |
-| Обители Годдарда | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_952.jpg) Свиток: Модифицировать Доспех (С) , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_948.jpg) Свиток: Модифицировать Доспех (B) |
-| Обители Глудио | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_952.jpg) Свиток: Модифицировать Доспех (С) , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_948.jpg) Свиток: Модифицировать Доспех (B) |
-| Обители Деревни Глудин | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_952.jpg) Свиток: Модифицировать Доспех (С) |
-| Обители Гирана | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_952.jpg) Свиток: Модифицировать Доспех (С) , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_948.jpg) Свиток: Модифицировать Доспех (B) |
-| Обители Диона | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_952.jpg) Свиток: Модифицировать Доспех (С) |
-| Обители Руны | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_948.jpg) Свиток: Модифицировать Доспех (B) , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_730.jpg) Свиток: Модифицировать Доспех (А) |
-| Обители Шутгарта | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_952.jpg) Свиток: Модифицировать Доспех (С) , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_948.jpg) Свиток: Модифицировать Доспех (B) |
-| Обители Адена | ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_948.jpg) Свиток: Модифицировать Доспех (B) , ![ct25p1](../../assets/images/chronicles/ct2_5p1/icon/Item_730.jpg) Свиток: Модифицировать Доспех (А) |
+| Обители Годдарда | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_952.jpg) Свиток: Модифицировать Доспех (С) , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_948.jpg) Свиток: Модифицировать Доспех (B) |
+| Обители Глудио | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_952.jpg) Свиток: Модифицировать Доспех (С) , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_948.jpg) Свиток: Модифицировать Доспех (B) |
+| Обители Деревни Глудин | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_952.jpg) Свиток: Модифицировать Доспех (С) |
+| Обители Гирана | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_952.jpg) Свиток: Модифицировать Доспех (С) , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_948.jpg) Свиток: Модифицировать Доспех (B) |
+| Обители Диона | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_952.jpg) Свиток: Модифицировать Доспех (С) |
+| Обители Руны | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_948.jpg) Свиток: Модифицировать Доспех (B) , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_730.jpg) Свиток: Модифицировать Доспех (А) |
+| Обители Шутгарта | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_952.jpg) Свиток: Модифицировать Доспех (С) , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_948.jpg) Свиток: Модифицировать Доспех (B) |
+| Обители Адена | ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Свиток_SP_Высший_Ранг.jpg) Свиток SP: Высший Ранг , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_948.jpg) Свиток: Модифицировать Доспех (B) , ![ct26p1](../../assets/images/chronicles/ct2_6p1/icon/Item_730.jpg) Свиток: Модифицировать Доспех (А) |
 
 </div>
 
 ## Почтовая Система
 
-![ct25p1](../../assets/images/chronicles/ct2_5p1/HF1_-_почтовая_система.jpg)
+![ct26p1](../../assets/images/chronicles/ct2_6p1/HF1_-_почтовая_система.jpg)
 
 - Добавлена адресная книга, куда автоматически добавляются члены клана и друзья персонажа
     - Двойной клик на имени персонажа в адресной книге, добавляет имя в поле "Кому"
@@ -194,7 +194,7 @@
 
 | - | -  |
 | --- | --- |
-| ![ct25p1](../../assets/images/chronicles/ct2_5p1/Новое_окно_эффектов.jpg) |1. Обычные положительные умения. По умолчанию доступно 20 слотов, расширяется до 24.<br>2. Включаемые умения. Умения которые можно включить или выключить по желанию игрока.<br>3. Песни / Танцы. Ауры накладываемые Танцорами Смерти и Менестрелями на группу.<br>4. Срабатывающие умения. Умения, которые накладываются на персонажа при нанесении или получении урона.<br>5. Отрицательные эффекты. Вредоносные умения, накладываемые противником на персонажа.<br>6. Штрафы. Штрафы смерти, перевеса и т.п. |
+| ![ct26p1](../../assets/images/chronicles/ct2_6p1/Новое_окно_эффектов.jpg) |1. Обычные положительные умения. По умолчанию доступно 20 слотов, расширяется до 24.<br>2. Включаемые умения. Умения которые можно включить или выключить по желанию игрока.<br>3. Песни / Танцы. Ауры накладываемые Танцорами Смерти и Менестрелями на группу.<br>4. Срабатывающие умения. Умения, которые накладываются на персонажа при нанесении или получении урона.<br>5. Отрицательные эффекты. Вредоносные умения, накладываемые противником на персонажа.<br>6. Штрафы. Штрафы смерти, перевеса и т.п. |
 
 </div>
 

@@ -10,7 +10,7 @@
 
 ### Логово Антараса
 
-![ct25p1](../../assets/images/chronicles/ct2_5p1/High_Five_-_Логово_Антараса.jpg)
+![ct26p1](../../assets/images/chronicles/ct2_6p1/High_Five_-_Логово_Антараса.jpg)
 <div class="compact-table noborder-table-b" markdown>
 
 |  | |
@@ -22,7 +22,7 @@
 </div>
 
 ### Долина Драконов
-![ct25p1](../../assets/images/chronicles/ct2_5p1/High_Five_-_Долина_Драконов.jpg)
+![ct26p1](../../assets/images/chronicles/ct2_6p1/High_Five_-_Долина_Драконов.jpg)
 <div class="compact-table noborder-table-b" markdown>
 
 |   | |
